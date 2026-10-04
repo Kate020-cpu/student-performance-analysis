@@ -1,0 +1,1216 @@
+student_id,gender,age,school_type,parent_education,internet_access,extracurricular,study_hours_per_day,attendance_pct,sleep_hours,screen_time_hours,previous_score,final_score
+STU0446,Male,16,Rural High,High School,Yes,Yes,3.0,81.7,7.5,7.2,76.0,72.0
+STU0290,Female,16,Rural High,High School,Yes,No,,82.4,5.6,6.6,68.0,58.0
+STU0569,Female,15,Rural High,Diploma,No,No,3.9,97.2,5.0,2.1,72.0,78.0
+STU0180,Male,16,Suburban High,Master's,No,Yes,3.1,84.9,7.9,2.4,45.0,64.0
+STU1035,Female,17,Urban High,Bachelor's,Yes,Yes,4.3,94.5,7.3,3.5,56.0,79.0
+STU0921,Female,16,Urban High,,Yes,No,3.0,91.0,5.5,5.6,49.0,51.0
+STU0047,Female,17,Urban High,Diploma,Yes,Yes,3.3,93.3,5.2,5.3,58.0,71.0
+STU0345,Male,16,Urban High,High School,Yes,Yes,3.4,88.3,4.2,1.5,65.0,71.0
+STU0421,Male,16,Urban High,High School,Yes,Yes,1.5,73.3,7.6,4.1,50.0,59.0
+STU0953,Female,17,Urban High,High School,Yes,Yes,2.6,89.9,7.7,3.8,72.0,64.0
+STU0190,Female,15,Urban High,Bachelor's,Yes,No,3.0,81.8,7.9,3.1,59.0,73.0
+STU0618,Female,16,Urban High,High School,No,No,2.1,72.1,8.4,3.0,42.0,48.0
+STU1129,Male,17,Suburban High,Bachelor's,No,No,2.3,91.3,7.6,3.8,56.0,49.0
+STU0306,Female,17,Rural High,Bachelor's,Yes,Yes,1.6,83.4,5.6,3.8,63.0,62.0
+STU0973,Female,17,Suburban High,High School,Yes,Yes,2.2,85.6,6.4,1.6,67.0,71.0
+STU0669,Female,17,Suburban High,Bachelor's,Yes,Yes,2.2,93.8,,0.7,53.0,65.0
+STU0642,Male,17,Suburban High,Bachelor's,Yes,No,2.1,100.0,6.0,3.3,70.0,77.0
+STU0455,Female,18,Suburban High,Bachelor's,Yes,No,3.0,85.4,4.7,3.7,49.0,56.0
+STU1058,Female,17,Suburban High,High School,Yes,Yes,1.9,77.8,7.3,4.0,58.0,65.0
+STU0834,Male,16,Urban High,Diploma,Yes,No,3.0,100.0,6.8,2.3,71.0,79.0
+STU0968,Female,16,Rural High,High School,Yes,Yes,3.0,80.6,8.0,5.6,56.0,66.0
+STU0052,Female,15,Suburban High,High School,Yes,Yes,4.2,97.0,6.3,2.7,74.0,79.0
+STU1027,Male,17,Urban High,Bachelor's,Yes,No,4.0,100.0,8.1,2.6,78.0,89.0
+STU0643,Female,15,Suburban High,Diploma,Yes,Yes,4.1,87.8,7.8,4.7,61.0,76.0
+STU0064,Male,18,Rural High,Bachelor's,Yes,Yes,2.0,77.0,6.0,1.0,65.0,64.0
+STU0854,Male,18,Rural High,Bachelor's,Yes,Yes,2.3,76.4,9.0,4.3,76.0,83.0
+STU1098,Male,15,Suburban High,Diploma,No,Yes,2.8,94.4,7.2,1.3,53.0,61.0
+STU0493,Male,16,Rural High,Bachelor's,No,No,2.3,94.9,5.9,4.0,62.0,56.0
+STU0173,Female,16,Suburban High,Bachelor's,Yes,Yes,4.3,84.9,,0.9,66.0,75.0
+STU0206,Female,16,Urban High,High School,Yes,No,1.7,100.0,8.3,6.1,45.0,47.0
+STU0501,Male,18,Urban High,High School,Yes,No,3.4,85.4,7.6,2.0,71.0,83.0
+STU1173,Female,16,Urban High,High School,Yes,No,2.0,89.0,6.1,5.0,77.0,73.0
+STU0774,Male,16,Suburban High,High School,No,No,1.8,74.9,8.0,4.5,60.0,64.0
+STU0035,Female,16,Rural High,Diploma,Yes,No,2.1,79.1,7.7,7.0,64.0,63.0
+STU0714,Male,17,Rural High,Bachelor's,Yes,No,4.1,71.9,5.9,1.4,54.0,61.0
+STU0114,Male,15,Urban High,Bachelor's,No,No,1.6,97.3,6.9,4.0,56.0,54.0
+STU0641,Male,15,Urban High,Bachelor's,Yes,Yes,1.8,78.8,7.5,5.7,100.0,85.0
+STU0738,Female,17,Urban High,High School,Yes,No,3.0,86.3,6.0,2.3,56.0,64.0
+STU0221,Female,17,Suburban High,Bachelor's,No,Yes,0.0,90.1,7.6,2.5,67.0,65.0
+STU0908,Female,18,Urban High,High School,No,No,1.9,88.7,7.9,4.3,58.0,63.0
+STU1151,Female,15,Suburban High,High School,Yes,No,2.7,89.4,7.2,2.4,30.0,52.0
+STU0805,Female,15,Suburban High,Diploma,Yes,No,2.6,82.2,5.6,4.7,81.0,78.0
+STU1094,Female,16,Rural High,Bachelor's,No,No,,80.8,7.1,2.2,57.0,65.0
+STU1136,Female,17,Suburban High,Bachelor's,Yes,No,2.8,91.1,7.2,3.1,60.0,73.0
+STU0232,Female,17,Rural High,Bachelor's,No,Yes,2.6,82.8,9.5,1.1,20.0,53.0
+STU1176,Male,15,Urban High,High School,Yes,Yes,1.6,82.2,7.5,3.1,59.0,64.0
+STU0747,Female,16,Suburban High,Bachelor's,No,No,2.4,79.0,6.6,1.4,58.0,65.0
+STU0352,Female,16,Suburban High,Master's,Yes,No,2.6,73.1,6.8,6.5,47.0,62.0
+STU0778,Female,18,Urban High,High School,Yes,Yes,3.5,88.8,5.7,1.5,86.0,73.0
+STU0579,Male,16,Suburban High,Bachelor's,Yes,No,1.0,94.5,8.0,3.0,71.0,75.0
+STU0400,Female,16,Suburban High,High School,Yes,No,3.5,86.5,6.1,1.7,64.0,76.0
+STU0378,Female,18,Rural High,High School,Yes,No,3.0,88.2,7.0,3.5,62.0,58.0
+STU0996,Female,18,Suburban High,Master's,Yes,No,4.7,89.2,4.4,2.3,54.0,70.0
+STU0326,Male,15,Suburban High,Diploma,Yes,Yes,3.4,88.8,7.0,0.0,64.0,73.0
+STU0458,Female,18,Urban High,Master's,Yes,No,4.0,89.2,9.3,4.0,59.0,75.0
+STU0896,Male,16,Suburban High,Diploma,Yes,Yes,3.5,87.4,7.7,4.1,76.0,84.0
+STU0656,Female,18,Rural High,High School,Yes,Yes,2.3,81.3,7.4,4.1,74.0,72.0
+STU1110,Female,18,Urban High,High School,Yes,Yes,1.2,89.2,8.9,2.7,62.0,62.0
+STU0147,Female,16,Suburban High,High School,Yes,No,4.9,80.2,6.7,3.6,64.0,82.0
+STU0187,Female,17,Urban High,Master's,Yes,No,2.8,87.3,6.8,3.7,78.0,75.0
+STU0651,Female,16,Suburban High,High School,Yes,No,2.1,92.4,,2.6,73.0,70.0
+STU0110,Male,18,Rural High,Bachelor's,Y,No,2.6,100.0,5.9,3.2,54.0,68.0
+STU0634,Female,15,Urban High,Bachelor's,Yes,No,1.5,78.8,6.1,0.5,46.0,50.0
+STU0359,Female,17,Rural High,High School,Yes,Yes,1.8,87.4,6.8,3.4,41.0,42.0
+STU0271,Female,18,Rural High,Diploma,Yes,Yes,3.3,90.5,9.7,7.3,55.0,73.0
+STU0978,Female,18,Suburban High,High School,Yes,Yes,3.2,90.1,5.3,3.5,83.0,78.0
+STU0919,Female,15,Urban High,Bachelor's,Yes,Yes,3.4,95.7,6.5,5.1,80.0,87.0
+STU0869,Female,16,Suburban High,Master's,Yes,No,2.2,89.5,7.9,4.2,61.0,73.0
+STU0205,Female,15,Urban High,High School,Yes,Yes,3.4,89.0,7.2,1.8,100.0,98.0
+STU0102,Male,17,Rural High,,Yes,Yes,2.7,80.5,6.7,2.0,60.0,70.0
+STU1050,Female,16,Suburban High,Diploma,Yes,Yes,1.1,81.3,8.3,7.0,84.0,69.0
+STU0099,Female,17,Suburban High,High School,No,No,2.7,86.9,6.6,5.5,49.0,58.0
+STU0565,Male,15,Urban High,Bachelor's,No,Yes,1.3,100.0,7.3,2.7,68.0,77.0
+STU1183,Female,15,Urban High,Master's,No,No,2.1,73.5,8.0,3.6,76.0,77.0
+STU1157,Female,16,Rural High,Diploma,Yes,No,5.0,87.0,,5.3,47.0,69.0
+STU0010,Female,16,Suburban High,High School,Yes,No,2.9,90.0,6.5,3.0,72.0,75.0
+STU0054,male,17,Suburban High,High School,Yes,Yes,3.5,80.1,5.6,3.5,40.0,51.0
+STU0225,Female,16,Rural High,Bachelor's,Yes,Yes,3.3,90.8,8.0,3.9,69.0,76.0
+STU1152,Male,18,Rural High,Diploma,Yes,No,3.4,92.0,5.4,1.8,40.0,55.0
+STU0265,male,17,Rural High,Master's,No,Yes,,82.2,4.8,0.1,57.0,80.0
+STU1053,Female,16,Urban High,High School,Yes,Yes,1.8,96.8,,3.6,49.0,56.0
+STU0611,Male,16,Urban High,Bachelor's,Yes,No,2.2,,9.3,3.0,45.0,58.0
+STU0645,Male,15,Suburban High,Bachelor's,No,No,1.7,95.1,5.9,0.8,43.0,47.0
+STU0604,Male,17,Suburban High,Bachelor's,Yes,Yes,3.2,89.6,6.7,4.2,47.0,55.0
+STU0494,Female,17,Rural High,High School,Yes,Yes,3.7,80.3,5.2,4.2,61.0,70.0
+STU1038,Female,16,Urban High,Bachelor's,Yes,No,2.3,92.6,7.5,1.7,51.0,64.0
+STU0751,Female,18,Urban High,High School,Yes,Yes,4.1,78.7,6.1,5.1,45.0,65.0
+STU1087,Male,18,RURAL HIGH,High School,Yes,No,1.8,74.6,7.9,3.0,49.0,52.0
+STU0670,Female,18,Urban High,Bachelor's,Yes,No,1.4,78.1,7.2,1.6,69.0,59.0
+STU0380,Male,18,Urban High,Bachelor's,Yes,Yes,,83.6,,4.3,87.0,79.0
+STU1014,Male,16,Urban High,Diploma,Yes,No,2.6,94.5,6.1,3.2,54.0,56.0
+STU0375,Female,15,Suburban High,High School,Yes,Yes,3.9,92.3,7.0,6.9,56.0,68.0
+STU1021,male,16,Suburban High,High School,Y,No,0.3,94.2,5.6,0.0,39.0,42.0
+STU0217,Female,17,Urban High,Diploma,Yes,Yes,2.5,87.3,7.6,2.2,66.0,65.0
+STU0279,Male,16,Suburban High,High School,Yes,No,2.1,89.7,8.5,5.2,61.0,60.0
+STU0558,Female,18,Urban High,High School,Yes,Yes,4.1,87.5,5.6,2.6,59.0,74.0
+STU0253,Female,18,Suburban High,Diploma,Yes,Yes,2.1,74.9,6.4,2.9,94.0,80.0
+STU1017,Male,15,Rural High,High School,Yes,Yes,4.8,86.4,6.5,3.3,59.0,70.0
+STU0273,Female,15,Urban High,High School,Yes,No,3.1,86.0,7.4,5.3,81.0,76.0
+STU0208,Male,15,Urban High,Bachelor's,Yes,Yes,2.4,88.6,7.8,2.7,75.0,79.0
+STU0811,Female,15,Urban High,Diploma,Yes,Yes,3.5,97.4,8.1,5.4,92.0,89.0
+STU0566,Male,15,Rural High,High School,No,No,1.1,74.1,7.8,2.4,87.0,68.0
+STU0084,Female,17,Urban High,Diploma,Yes,Yes,3.3,76.7,6.7,0.0,57.0,71.0
+STU0514,Female,18,Rural High,Diploma,Yes,No,6.5,91.3,6.9,0.2,65.0,92.0
+STU0055,Male,15,Rural High,High School,Yes,Yes,2.4,82.5,,4.3,42.0,52.0
+STU0955,Male,17,Rural High,High School,Yes,No,2.1,94.5,5.9,2.8,62.0,70.0
+STU0653,Male,17,Rural High,High School,Yes,No,1.3,76.7,4.2,6.3,60.0,58.0
+STU0142,Female,18,Urban High,High School,Yes,Yes,2.8,89.9,5.6,4.4,51.0,60.0
+STU1131,Male,17,Urban High,High School,No,Yes,3.8,89.2,7.9,1.6,70.0,70.0
+STU0661,Female,17,Rural High,Master's,Yes,Yes,0.6,97.6,7.1,2.1,66.0,71.0
+STU0570,Male,18,Urban High,Diploma,Yes,No,2.9,96.1,6.4,1.3,51.0,61.0
+STU0587,Female,16,Urban High,High School,Yes,Yes,2.8,91.9,7.8,5.2,59.0,68.0
+STU0427,Female,16,Rural High,Bachelor's,Yes,Yes,2.8,82.8,7.0,3.9,51.0,64.0
+STU1196,Female,18,Suburban High,High School,Yes,No,3.8,93.7,8.7,1.2,63.0,77.0
+STU0682,Female,17,Urban High,Diploma,Yes,No,2.9,100.0,7.3,1.2,61.0,70.0
+STU0152,Male,18,Rural High,Diploma,Yes,No,4.7,83.7,8.1,3.4,63.0,86.0
+STU0410,Male,16,Urban High,Bachelor's,Yes,Yes,4.5,82.0,6.5,4.5,77.0,81.0
+STU0563,Male,16,Urban High,Bachelor's,Yes,Yes,2.3,,8.0,3.4,70.0,68.0
+STU0433,Male,17,RURAL HIGH,Bachelor's,Yes,Yes,3.2,86.1,6.6,6.6,61.0,68.0
+STU0041,Female,18,Suburban High,High School,No,Yes,2.2,89.0,8.9,0.0,75.0,76.0
+STU0286,Female,15,Suburban High,High School,Yes,No,1.9,87.7,6.2,3.3,81.0,76.0
+STU0013,Male,17,Urban High,Bachelor's,Yes,Yes,1.3,85.6,6.1,2.4,60.0,76.0
+STU0098,Female,15,Urban High,High School,Yes,Yes,3.5,93.6,6.4,4.7,63.0,73.0
+STU0668,Male,16,Urban High,,Yes,Yes,3.1,86.6,5.6,6.8,92.0,83.0
+STU0701,Female,17,Suburban High,Diploma,Yes,Yes,0.3,90.5,7.9,7.1,73.0,63.0
+STU0129,Female,16,Suburban High,Bachelor's,Yes,Yes,3.5,85.3,8.3,0.0,69.0,90.0
+STU0485,Female,15,Rural High,Diploma,Yes,No,1.8,89.6,8.4,3.4,65.0,65.0
+STU0770,Male,17,Rural High,Diploma,No,Yes,2.3,81.4,6.5,2.4,82.0,80.0
+STU0542,Male,16,Urban High,Diploma,Yes,Yes,2.2,99.3,6.9,0.8,64.0,72.0
+STU0598,Male,16,Urban High,Master's,Y,Yes,3.7,94.0,6.7,2.7,32.0,58.0
+STU1180,Female,17,URBAN HIGH,Bachelor's,Yes,Yes,3.4,83.7,7.2,2.1,74.0,79.0
+STU0709,Female,18,Urban High,Master's,Yes,No,2.6,76.7,6.9,0.6,67.0,65.0
+STU0264,Female,16,Urban High,High School,Yes,No,2.3,87.1,7.4,2.6,72.0,71.0
+STU0549,Male,16,Suburban High,,Yes,No,3.6,95.7,8.2,2.3,49.0,65.0
+STU1042,Male,15,Urban High,High School,Yes,Yes,3.2,100.0,9.9,0.9,90.0,93.0
+STU0858,Male,16,Urban High,Diploma,Yes,Yes,2.1,82.1,6.6,5.2,81.0,81.0
+STU1083,Male,16,Suburban High,Bachelor's,Yes,No,0.7,88.3,7.8,1.0,64.0,56.0
+STU0910,Female,15,Urban High,High School,Yes,Yes,3.9,84.3,6.7,5.6,41.0,63.0
+STU0743,Male,16,Suburban High,Diploma,Yes,Yes,2.8,96.0,5.9,3.0,58.0,70.0
+STU0842,Male,17,Rural High,High School,Yes,No,1.3,79.7,,0.5,58.0,60.0
+STU1114,Male,15,Suburban High,Master's,Yes,Yes,1.5,88.6,6.0,5.0,70.0,65.0
+STU1018,Male,18,Suburban High,Diploma,Yes,Yes,2.2,82.0,7.7,4.3,46.0,55.0
+STU0839,Female,17,Urban High,,Yes,No,1.6,98.2,7.6,5.8,64.0,66.0
+STU0018,Female,17,Rural High,High School,Yes,No,3.0,75.6,6.9,3.9,64.0,74.0
+STU0524,Male,17,Rural High,Diploma,Yes,Yes,3.2,96.3,4.7,0.9,64.0,75.0
+STU0171,Female,15,Urban High,Master's,Yes,No,1.6,78.7,7.0,3.8,56.0,60.0
+STU0756,Female,18,Urban High,Bachelor's,No,Yes,2.4,71.9,7.5,2.1,70.0,69.0
+STU1103,Male,16,Urban High,High School,Yes,No,1.0,100.0,7.7,0.0,55.0,59.0
+STU0116,Male,17,Suburban High,Bachelor's,Yes,No,6.8,75.6,9.6,0.3,65.0,91.0
+STU0254,Female,18,Suburban High,Diploma,Yes,Yes,5.4,89.6,7.5,2.0,82.0,90.0
+STU1101,Female,18,Urban High,Master's,No,Yes,,83.9,5.8,1.9,77.0,74.0
+STU0141,Female,15,Rural High,High School,No,Yes,2.9,80.9,7.0,1.0,57.0,68.0
+STU0871,Male,18,Suburban High,Master's,Yes,No,2.1,73.7,6.7,2.7,44.0,52.0
+STU0772,Male,18,Rural High,High School,Yes,No,4.2,85.1,6.2,3.6,60.0,72.0
+STU0368,Male,15,Rural High,High School,Yes,Yes,1.3,79.0,7.5,4.9,80.0,69.0
+STU0557,Female,15,Urban High,Master's,Yes,No,2.8,89.1,5.9,3.1,59.0,63.0
+STU0386,Male,18,Rural High,High School,No,No,,82.2,7.3,2.5,50.0,48.0
+STU0620,Female,17,Urban High,Bachelor's,Yes,Yes,1.2,83.4,7.6,3.9,86.0,77.0
+STU0545,Female,17,Urban High,Diploma,Yes,Yes,3.1,89.1,6.7,3.8,58.0,68.0
+STU0889,female,17,Urban High,High School,Yes,No,2.5,94.7,6.3,5.9,52.0,62.0
+STU0109,Female,15,Rural High,Diploma,Yes,Yes,3.0,100.0,5.3,0.0,52.0,71.0
+STU0985,Female,17,Urban High,Bachelor's,Yes,Yes,1.8,97.2,7.2,1.7,81.0,85.0
+STU0281,Female,16,Suburban High,Bachelor's,Yes,No,2.7,76.4,7.0,3.5,64.0,71.0
+STU0981,Male,17,Urban High,Bachelor's,No,No,2.0,100.0,5.4,2.4,62.0,68.0
+STU0100,Male,16,Rural High,Diploma,Yes,Yes,0.8,70.2,7.5,4.6,66.0,47.0
+STU0736,Male,15,Suburban High,High School,Yes,No,2.2,86.6,6.9,1.4,68.0,68.0
+STU0637,Male,15,Rural High,Diploma,No,Yes,2.8,75.5,7.4,5.6,49.0,53.0
+STU0535,Female,18,Rural High,Diploma,Yes,Yes,,94.7,9.7,2.3,67.0,90.0
+STU0664,Female,17,Suburban High,Bachelor's,Yes,No,3.1,86.7,8.5,5.2,75.0,79.0
+STU0852,Female,15,Rural High,Master's,Yes,Yes,2.8,80.4,6.7,4.4,56.0,67.0
+STU0472,Female,17,Rural High,Bachelor's,No,No,1.2,91.5,7.7,2.8,64.0,64.0
+STU0397,Male,15,Rural High,High School,Yes,No,1.3,85.1,5.8,5.9,47.0,45.0
+STU0867,Male,17,Urban High,High School,Yes,Yes,3.5,75.4,6.6,4.2,51.0,66.0
+STU0913,Male,15,Rural High,,No,No,1.6,83.6,6.4,7.1,40.0,55.0
+STU0340,Male,16,Rural High,High School,No,No,1.9,81.4,6.8,1.2,54.0,60.0
+STU0882,Male,16,Urban High,Bachelor's,Yes,No,1.9,81.4,6.6,4.3,50.0,50.0
+STU0987,Female,18,Rural High,,No,No,0.5,81.5,7.3,5.1,48.0,46.0
+STU1104,Male,16,Rural High,Diploma,Yes,Yes,4.3,90.7,6.4,2.6,29.0,55.0
+STU0432,Male,18,Rural High,Diploma,No,Yes,2.1,75.4,7.5,5.9,50.0,49.0
+STU0024,Male,17,Urban High,Bachelor's,Yes,No,3.5,89.8,6.1,3.9,46.0,70.0
+STU1020,Female,16,Suburban High,Diploma,Yes,No,3.7,73.0,5.1,1.8,64.0,71.0
+STU0768,Female,18,Urban High,Diploma,Yes,Yes,2.3,93.9,6.6,3.8,58.0,57.0
+STU0504,Female,17,Suburban High,High School,Yes,No,2.2,98.5,6.6,2.0,67.0,69.0
+STU0878,Female,15,Rural High,High School,Yes,Yes,2.2,96.6,7.7,3.7,76.0,82.0
+STU0956,Male,18,Urban High,Bachelor's,Yes,Yes,3.7,85.1,8.0,3.3,71.0,80.0
+STU0914,Male,17,Rural High,High School,Yes,No,2.2,81.9,6.2,3.7,89.0,81.0
+STU0124,Female,17,Rural High,,No,Yes,4.4,72.2,8.1,1.1,84.0,83.0
+STU1167,Male,16,Suburban High,Bachelor's,Yes,No,3.0,87.5,7.1,1.8,55.0,67.0
+STU0793,Female,16,Rural High,Diploma,Yes,No,0.0,83.4,6.5,5.8,61.0,48.0
+STU0499,Female,18,Rural High,Bachelor's,Yes,Yes,3.3,100.0,9.2,4.1,82.0,95.0
+STU0523,Female,17,Urban High,Master's,No,Yes,4.4,70.9,6.9,1.8,75.0,84.0
+STU1074,Male,18,Urban High,High School,Yes,Yes,2.5,88.0,6.6,4.7,68.0,60.0
+STU1187,Female,18,Urban High,High School,Yes,Yes,4.3,75.8,6.9,3.1,49.0,64.0
+STU0229,Male,17,Urban High,Master's,Yes,Yes,2.2,83.9,8.8,7.9,64.0,63.0
+STU0148,Male,16,Urban High,Bachelor's,Yes,Yes,2.6,91.6,8.0,4.6,65.0,78.0
+STU1068,Male,17,Urban High,High School,Yes,No,4.3,82.5,7.5,5.8,64.0,77.0
+STU0537,Male,18,Urban High,Diploma,Yes,Yes,3.3,82.5,5.1,5.0,57.0,63.0
+STU0819,Male,17,Urban High,High School,Yes,Yes,0.0,97.9,,0.0,47.0,54.0
+STU0071,Female,18,URBAN HIGH,Diploma,Yes,No,2.1,89.4,,6.3,78.0,74.0
+STU1128,male,15,Urban High,High School,Yes,Yes,3.3,100.0,,3.3,56.0,69.0
+STU0263,Female,15,Urban High,Bachelor's,Yes,Yes,3.5,98.2,5.1,2.9,59.0,75.0
+STU0172,Female,18,Rural High,Master's,Yes,Yes,2.0,88.9,6.6,7.0,56.0,59.0
+STU1159,Female,18,Rural High,High School,Yes,Yes,0.9,89.3,7.8,0.9,57.0,56.0
+STU0169,Female,15,Rural High,Bachelor's,Yes,Yes,,79.1,6.2,0.6,46.0,63.0
+STU0479,Male,18,Rural High,High School,Yes,Yes,0.2,75.3,7.3,3.7,93.0,77.0
+STU0906,Male,17,Urban High,,Yes,No,0.5,92.8,6.2,3.0,62.0,58.0
+STU0813,Male,15,Suburban High,Bachelor's,Yes,Yes,1.4,100.0,6.1,6.0,56.0,59.0
+STU0126,Female,18,Urban High,Bachelor's,Yes,Yes,4.0,81.3,6.1,0.5,53.0,68.0
+STU0373,Female,17,Suburban High,Diploma,No,No,2.5,86.6,6.8,4.4,59.0,58.0
+STU0362,Female,17,Suburban High,High School,No,No,,87.1,9.1,1.4,83.0,92.0
+STU0165,male,16,Rural High,High School,Yes,No,3.7,97.5,6.9,6.6,44.0,62.0
+STU0726,Female,15,Urban High,Diploma,No,Yes,0.9,84.7,7.2,4.8,57.0,58.0
+STU1118,Male,17,Urban High,Diploma,Yes,No,3.5,79.1,7.3,6.1,63.0,71.0
+STU0572,Male,17,Rural High,Bachelor's,No,Yes,2.4,86.3,6.3,2.7,37.0,54.0
+STU0827,Male,18,Rural High,High School,Yes,Yes,3.5,79.1,7.7,2.3,64.0,76.0
+STU0043,Male,16,Urban High,Bachelor's,Yes,No,3.3,90.1,9.0,3.4,59.0,71.0
+STU0769,Female,16,Urban High,High School,Yes,No,0.9,66.3,10.0,1.3,74.0,68.0
+STU0900,Male,16,Urban High,Bachelor's,Yes,No,1.8,82.8,7.9,5.1,86.0,79.0
+STU1066,Male,15,Suburban High,Diploma,Yes,No,3.3,94.1,8.5,6.7,82.0,87.0
+STU0133,male,17,Rural High,Diploma,Y,No,3.8,65.9,7.6,2.2,41.0,61.0
+STU0190,Female,15,Urban High,Bachelor's,Yes,No,3.0,81.8,7.9,3.1,59.0,73.0
+STU0632,Male,18,Urban High,High School,Yes,Yes,3.6,100.0,8.1,3.9,49.0,62.0
+STU0039,Female,15,URBAN HIGH,Bachelor's,Yes,Yes,2.0,90.0,7.3,1.3,67.0,77.0
+STU0541,Male,16,Suburban High,Diploma,Y,No,2.4,82.5,8.2,5.6,71.0,69.0
+STU0475,Female,17,Urban High,High School,Yes,Yes,3.1,85.4,7.0,5.5,75.0,72.0
+STU0315,Female,18,Suburban High,Diploma,Yes,No,1.6,100.0,6.5,2.8,70.0,60.0
+STU1026,Female,16,Rural High,Bachelor's,Yes,Yes,4.1,95.4,7.8,0.6,67.0,74.0
+STU0390,Male,15,Urban High,Master's,Yes,Yes,2.2,84.0,5.1,2.0,48.0,52.0
+STU0899,Female,15,Rural High,Bachelor's,No,No,3.8,69.2,6.6,2.5,46.0,68.0
+STU0309,Female,16,Urban High,Diploma,Yes,Yes,5.8,93.9,7.1,4.2,56.0,84.0
+STU0014,Male,16,Rural High,Master's,No,No,3.2,81.6,6.0,1.6,39.0,50.0
+STU0167,Male,16,Urban High,Diploma,Yes,No,,98.6,7.6,3.7,58.0,69.0
+STU0532,Male,15,Urban High,Bachelor's,Yes,No,3.7,94.9,4.0,0.4,56.0,80.0
+STU0665,Female,17,Urban High,Bachelor's,Yes,Yes,3.4,83.6,6.9,4.3,44.0,68.0
+STU0319,Female,15,Urban High,Bachelor's,Yes,Yes,3.6,81.0,8.2,7.4,64.0,71.0
+STU0705,Female,17,Rural High,High School,No,Yes,4.3,81.1,7.8,2.2,66.0,77.0
+STU0364,Female,18,Urban High,High School,Yes,Yes,3.6,92.8,7.3,6.6,66.0,69.0
+STU0704,Male,15,Suburban High,Diploma,Yes,Yes,2.5,88.0,6.3,2.9,59.0,76.0
+STU0931,Female,16,Suburban High,Bachelor's,Yes,Yes,3.2,91.4,6.4,4.2,57.0,66.0
+STU0021,Male,15,Urban High,Bachelor's,Yes,No,5.2,99.8,5.6,3.2,82.0,87.0
+STU0798,Female,16,Urban High,Bachelor's,Yes,Yes,2.8,91.3,9.2,4.4,70.0,85.0
+STU0072,Female,16,Suburban High,Bachelor's,Yes,Yes,3.2,92.9,5.1,3.3,50.0,72.0
+STU1188,Male,15,Rural High,Bachelor's,Yes,Yes,2.8,76.7,6.7,8.0,65.0,67.0
+STU0588,Female,17,Rural High,High School,Yes,No,2.7,80.8,8.0,4.0,79.0,74.0
+STU0061,Male,15,Suburban High,High School,Yes,No,3.9,86.6,7.1,4.5,92.0,95.0
+STU0409,Female,16,Urban High,High School,Yes,No,4.4,100.0,7.9,4.2,76.0,85.0
+STU0111,Female,16,Rural High,Bachelor's,Yes,Yes,2.3,98.1,4.8,7.7,54.0,61.0
+STU0005,Female,15,Suburban High,Master's,Yes,Yes,3.0,77.2,7.0,3.1,55.0,74.0
+STU0833,Female,16,Rural High,Bachelor's,Yes,Yes,1.9,81.3,7.4,3.2,59.0,66.0
+STU0591,Male,17,SUBURBAN HIGH,High School,Y,Yes,2.2,92.3,7.8,3.0,61.0,65.0
+STU0564,Male,15,Rural High,Diploma,No,No,3.4,98.1,7.9,4.3,79.0,78.0
+STU0644,Female,18,Urban High,Diploma,Yes,Yes,2.6,99.2,6.2,0.4,53.0,66.0
+STU0337,Female,17,Urban High,High School,Yes,Yes,3.6,84.1,7.6,3.4,73.0,76.0
+STU0285,Male,17,Urban High,Master's,No,No,0.3,76.2,6.8,4.1,62.0,57.0
+STU0610,Female,15,Suburban High,High School,Yes,Yes,2.3,78.7,,0.0,74.0,75.0
+STU0284,Female,16,Rural High,Diploma,Yes,Yes,3.2,82.7,7.4,5.3,45.0,64.0
+STU0792,Female,17,Urban High,Bachelor's,Yes,Yes,2.0,99.9,7.3,1.5,74.0,85.0
+STU1070,Female,18,Suburban High,High School,Yes,No,3.6,74.5,5.7,5.3,54.0,57.0
+STU0095,Female,16,Suburban High,Bachelor's,Yes,No,,68.5,7.1,4.5,61.0,48.0
+STU0096,Male,16,Rural High,Diploma,Yes,Yes,2.4,100.0,7.1,1.9,51.0,61.0
+STU0831,Male,15,Urban High,High School,Yes,Yes,0.8,91.7,8.1,2.1,70.0,66.0
+STU0518,Male,17,Suburban High,Bachelor's,No,No,1.3,91.5,7.6,3.1,52.0,60.0
+STU0748,Female,18,Suburban High,Bachelor's,Yes,Yes,4.3,90.6,6.9,2.0,65.0,85.0
+STU0830,Female,17,Rural High,High School,Yes,No,5.3,77.5,9.0,1.5,58.0,78.0
+STU0059,Female,17,Urban High,Bachelor's,Yes,No,4.0,86.3,6.3,6.8,39.0,56.0
+STU0327,Male,16,Suburban High,Diploma,Yes,No,3.5,100.0,7.5,3.4,56.0,59.0
+STU0307,Female,17,Suburban High,Bachelor's,Yes,No,4.2,92.4,9.6,3.5,63.0,74.0
+STU0923,Male,16,Suburban High,Bachelor's,Yes,Yes,,92.8,6.2,4.4,49.0,56.0
+STU0025,Male,15,Suburban High,Bachelor's,Yes,No,3.7,78.9,6.4,2.1,42.0,59.0
+STU0652,Male,18,Urban High,High School,Yes,No,2.8,87.0,5.8,3.2,66.0,78.0
+STU0245,Male,15,Urban High,Master's,Yes,Yes,3.5,78.7,8.0,0.0,54.0,77.0
+STU0026,Female,18,Suburban High,Diploma,Yes,No,3.1,98.5,6.1,3.5,66.0,71.0
+STU0223,Male,16,Urban High,Diploma,No,No,3.1,94.1,5.8,1.4,61.0,75.0
+STU0901,Female,17,Suburban High,High School,No,Yes,0.5,91.8,8.3,2.5,72.0,74.0
+STU0106,Male,18,Urban High,High School,Yes,No,1.9,81.8,7.2,1.6,56.0,55.0
+STU1079,Male,18,Suburban High,High School,Yes,Yes,2.6,80.5,6.7,6.4,56.0,61.0
+STU0131,Female,17,Rural High,Master's,Yes,Yes,3.0,74.9,6.5,1.2,59.0,71.0
+STU0154,Male,16,Suburban High,Bachelor's,No,Yes,3.0,73.7,7.7,2.5,60.0,71.0
+STU0849,Female,15,Suburban High,Diploma,Yes,Yes,2.6,66.8,6.5,6.5,98.0,82.0
+STU0954,Female,17,Urban High,Bachelor's,Yes,No,4.9,87.5,7.3,4.0,54.0,74.0
+STU0335,Female,15,Urban High,Diploma,No,No,2.1,95.3,8.9,3.7,52.0,56.0
+STU0136,Female,18,Rural High,Master's,Yes,Yes,3.0,100.0,6.5,1.7,100.0,98.0
+STU0076,Female,16,Urban High,Bachelor's,Yes,Yes,2.6,83.9,8.2,4.8,77.0,75.0
+STU1164,Female,18,Urban High,Diploma,Yes,No,4.9,90.1,6.1,0.0,57.0,80.0
+STU1063,Female,16,Urban High,Diploma,Yes,Yes,2.7,89.3,8.9,2.4,50.0,65.0
+STU0453,Male,16,Suburban High,Diploma,Yes,Yes,3.6,86.4,5.0,0.0,65.0,70.0
+STU1142,Male,15,Rural High,High School,Yes,No,5.4,68.5,4.4,1.7,65.0,72.0
+STU1084,Male,17,Rural High,,No,Yes,3.4,84.0,7.2,1.8,71.0,86.0
+STU0431,Male,16,Urban High,Diploma,Yes,Yes,,78.1,7.6,5.8,67.0,61.0
+STU0200,Female,16,Suburban High,High School,Yes,No,3.5,89.9,7.1,3.3,72.0,79.0
+STU0846,Male,15,Rural High,,Yes,Yes,3.8,71.7,6.3,1.3,60.0,72.0
+STU0135,Male,150,Suburban High,High School,Yes,Yes,3.1,100.0,6.8,5.3,56.0,64.0
+STU0964,Female,16,Rural High,Bachelor's,No,Yes,2.4,89.5,5.2,0.4,83.0,80.0
+STU0260,male,16,Urban High,High School,Yes,Yes,,89.6,7.0,4.4,56.0,64.0
+STU0596,Female,16,Rural High,Diploma,Yes,Yes,2.5,83.6,5.7,1.8,61.0,65.0
+STU0004,Male,17,Suburban High,High School,Yes,Yes,4.3,92.6,6.2,4.9,80.0,78.0
+STU1096,Female,15,Suburban High,,Yes,Yes,1.2,93.1,5.7,0.3,60.0,62.0
+STU0211,Male,18,Suburban High,Diploma,Yes,Yes,2.0,86.6,7.0,2.8,71.0,75.0
+STU0197,Male,17,Urban High,Bachelor's,Yes,No,1.7,91.4,7.3,2.9,46.0,56.0
+STU0771,Female,16,Suburban High,High School,Yes,Yes,,,,2.0,47.0,65.0
+STU0836,Male,17,Urban High,Diploma,Yes,Yes,2.5,87.0,7.9,4.5,49.0,64.0
+STU0027,Female,16,Urban High,Master's,Yes,Yes,4.0,89.5,6.0,0.2,52.0,78.0
+STU0351,Male,15,Urban High,Diploma,Yes,No,1.7,79.9,7.6,6.4,49.0,55.0
+STU0474,Female,15,Urban High,High School,No,No,2.2,97.3,6.9,4.0,52.0,62.0
+STU1123,Male,16,Urban High,High School,Yes,No,2.7,86.8,5.9,4.0,20.0,39.0
+STU0317,Female,15,Rural High,Diploma,Yes,Yes,1.6,87.4,8.1,7.3,34.0,43.0
+STU0062,Female,16,Rural High,Master's,No,Yes,3.5,90.8,6.5,2.3,80.0,79.0
+STU0907,Female,17,Urban High,Diploma,No,No,4.6,95.6,6.8,3.3,54.0,66.0
+STU1022,Male,16,Urban High,,No,No,1.9,87.8,6.1,1.7,76.0,72.0
+STU0447,Male,16,URBAN HIGH,High School,Yes,No,3.7,88.3,5.7,5.2,63.0,60.0
+STU0672,Male,16,Suburban High,Diploma,Yes,Yes,3.8,92.7,7.9,5.6,54.0,78.0
+STU0628,Female,16,Suburban High,High School,Yes,No,0.0,97.9,6.9,3.3,50.0,57.0
+STU0761,Male,17,Suburban High,High School,No,Yes,2.2,89.7,7.4,4.4,81.0,73.0
+STU0356,Male,17,Suburban High,,Yes,Yes,1.2,100.0,5.2,0.0,81.0,73.0
+STU1086,Male,15,Suburban High,High School,Yes,No,0.0,84.7,8.4,5.0,52.0,47.0
+STU0505,Male,16,Urban High,Master's,Yes,No,3.3,82.7,8.4,2.9,89.0,97.0
+STU0898,Female,16,Rural High,Diploma,No,Yes,2.5,88.2,7.0,3.5,36.0,49.0
+STU0936,female,17,Urban High,High School,No,No,3.3,83.0,8.1,3.4,72.0,72.0
+STU0009,Female,16,Urban High,High School,Yes,No,4.8,87.2,5.9,0.4,31.0,56.0
+STU0419,Female,18,Urban High,High School,Yes,No,2.3,100.0,6.7,4.1,81.0,78.0
+STU0599,Male,17,Suburban High,High School,Yes,Yes,2.5,91.4,7.5,5.7,68.0,72.0
+STU1036,Male,18,Rural High,High School,Yes,No,4.6,72.1,8.1,3.4,53.0,66.0
+STU0511,Female,17,Suburban High,High School,Yes,No,4.7,86.8,7.5,0.7,70.0,94.0
+STU1032,Male,17,Rural High,,Yes,Yes,2.4,77.6,6.7,2.2,68.0,73.0
+STU0807,Male,16,Urban High,Master's,Yes,Yes,2.3,93.5,7.3,4.8,52.0,65.0
+STU0464,Female,16,Urban High,Diploma,No,Yes,3.1,77.5,6.4,2.2,52.0,59.0
+STU0075,Female,15,Urban High,Bachelor's,Yes,No,2.7,85.9,9.0,3.7,63.0,66.0
+STU0706,Male,16,Rural High,High School,Yes,Yes,3.6,82.6,8.4,3.4,68.0,81.0
+STU0058,Male,18,Urban High,Diploma,Yes,No,4.3,91.2,6.7,2.5,59.0,84.0
+STU1015,Female,18,Urban High,High School,Yes,Yes,1.1,93.7,6.3,0.5,62.0,67.0
+STU0456,Female,16,Suburban High,Bachelor's,No,No,0.0,77.2,6.0,4.6,80.0,60.0
+STU0298,Male,17,Urban High,Diploma,Yes,No,0.0,,8.5,5.3,68.0,57.0
+STU1046,Female,15,Urban High,Master's,No,No,3.3,78.9,6.9,5.3,61.0,60.0
+STU0218,Female,17,Suburban High,,Yes,No,4.1,80.1,7.0,2.4,54.0,65.0
+STU0702,Female,15,Urban High,Bachelor's,Yes,No,2.4,78.7,5.2,3.9,58.0,61.0
+STU0659,Male,16,Urban High,Master's,Yes,No,3.4,87.4,6.8,2.6,47.0,69.0
+STU1054,Female,17,Urban High,High School,Yes,Yes,2.7,86.6,5.5,3.5,50.0,54.0
+STU1029,male,15,Suburban High,High School,Yes,No,3.9,83.5,6.1,4.2,76.0,73.0
+STU0674,Male,18,Suburban High,Bachelor's,Yes,Yes,2.1,95.1,8.2,3.1,56.0,68.0
+STU0526,Female,15,Rural High,High School,Yes,No,3.7,84.8,8.3,0.7,56.0,67.0
+STU0856,Female,16,Suburban High,High School,Yes,Yes,1.8,84.1,4.0,3.9,46.0,54.0
+STU0692,Male,17,Suburban High,High School,Yes,Yes,1.9,96.5,6.0,1.2,59.0,62.0
+STU0975,Female,16,Rural High,Bachelor's,Yes,No,1.2,98.1,7.4,1.5,42.0,57.0
+STU1000,Female,17,Rural High,Diploma,Yes,No,,86.7,5.8,0.9,73.0,80.0
+STU0267,Female,16,Suburban High,Diploma,Yes,Yes,4.1,73.5,8.3,5.7,40.0,63.0
+STU0007,Male,17,Rural High,High School,Yes,No,3.4,85.8,5.6,5.2,74.0,64.0
+STU0681,Female,17,Urban High,High School,Yes,No,2.4,92.5,5.1,0.0,70.0,66.0
+STU0508,Male,16,Urban High,Bachelor's,Yes,Yes,2.4,93.3,5.3,0.5,72.0,78.0
+STU1082,Male,15,Suburban High,High School,Yes,No,2.7,83.0,7.7,4.4,84.0,72.0
+STU0139,Male,18,Urban High,Bachelor's,Yes,Yes,3.1,85.6,6.8,3.6,43.0,64.0
+STU0164,Female,15,Rural High,High School,Yes,No,,86.5,8.2,2.9,66.0,68.0
+STU0723,Female,16,Urban High,Bachelor's,Yes,Yes,2.5,100.0,6.3,4.1,58.0,66.0
+STU0698,Male,16,Urban High,Diploma,Yes,Yes,1.2,92.5,5.9,0.5,40.0,50.0
+STU1065,Female,17,Suburban High,Diploma,Yes,Yes,3.5,79.7,8.2,3.8,52.0,65.0
+STU0044,Female,15,Rural High,High School,Yes,No,3.9,95.7,6.8,1.8,76.0,90.0
+STU0755,Male,18,Urban High,Master's,Yes,Yes,1.5,89.7,,5.3,58.0,66.0
+STU1160,Male,15,Rural High,Master's,Yes,Yes,3.3,87.2,6.4,4.5,84.0,86.0
+STU0320,Male,15,Rural High,Diploma,Yes,No,2.6,82.9,5.7,3.1,48.0,59.0
+STU1163,Male,16,Suburban High,Master's,Yes,No,1.3,93.7,7.7,4.3,43.0,63.0
+STU0783,Female,18,Rural High,High School,Yes,No,3.8,100.0,6.1,3.1,64.0,72.0
+STU0861,Male,18,Urban High,Diploma,Yes,Yes,4.6,100.0,6.5,1.6,62.0,73.0
+STU0295,Male,16,Suburban High,Master's,No,Yes,2.3,88.0,6.9,5.7,57.0,65.0
+STU0408,Male,16,Suburban High,High School,No,Yes,1.6,89.4,6.6,2.0,56.0,50.0
+STU1181,Male,18,Suburban High,High School,Yes,Yes,1.8,93.2,6.6,3.1,54.0,57.0
+STU0703,Female,18,Suburban High,Master's,Yes,No,4.7,120.0,5.5,4.3,60.0,71.0
+STU0971,Female,16,Suburban High,High School,Yes,No,1.1,88.1,,2.3,61.0,54.0
+STU0020,Male,15,Suburban High,Master's,Yes,No,0.2,91.2,5.7,2.4,51.0,50.0
+STU0737,Female,16,Suburban High,High School,Yes,Yes,0.5,77.7,8.0,0.4,53.0,59.0
+STU0452,Male,16,Urban High,Bachelor's,Yes,Yes,4.3,87.1,7.9,3.7,50.0,77.0
+STU0468,Male,16,Rural High,Bachelor's,No,No,0.9,77.4,7.0,3.1,53.0,57.0
+STU0963,Female,16,Rural High,High School,Yes,No,3.0,77.9,6.3,4.6,42.0,46.0
+STU1048,Male,17,Suburban High,High School,Yes,Yes,4.8,87.4,7.3,2.6,62.0,87.0
+STU0398,Female,15,Urban High,Diploma,Yes,Yes,3.1,96.3,6.5,5.4,63.0,70.0
+STU0448,Male,17,Urban High,High School,Yes,Yes,3.0,94.0,6.1,4.0,59.0,67.0
+STU0138,Female,17,Urban High,Bachelor's,Yes,Yes,2.7,81.4,7.1,4.5,54.0,61.0
+STU0699,Male,15,Urban High,Diploma,Yes,No,3.0,92.9,6.6,1.2,84.0,84.0
+STU0519,Female,17,Urban High,High School,Yes,Yes,,88.1,6.1,3.3,42.0,56.0
+STU0186,Male,15,Urban High,Master's,Yes,No,2.0,96.1,8.7,2.2,53.0,59.0
+STU0952,Female,15,Urban High,Bachelor's,Yes,No,4.7,100.0,9.4,2.6,55.0,81.0
+STU0413,Female,17,Rural High,Master's,No,Yes,0.0,86.8,5.5,6.6,55.0,44.0
+STU1150,Male,15,SUBURBAN HIGH,High School,Yes,No,2.4,85.9,6.6,2.4,61.0,59.0
+STU0510,Female,16,Rural High,Diploma,Yes,No,1.0,87.2,6.7,3.0,65.0,61.0
+STU1140,Male,15,Urban High,Bachelor's,No,Yes,1.1,100.0,6.2,2.8,66.0,71.0
+STU0484,Female,16,Urban High,High School,Yes,No,0.6,86.3,6.9,5.0,45.0,42.0
+STU0328,Male,16,Urban High,Bachelor's,Yes,No,4.4,89.7,6.7,4.6,54.0,75.0
+STU0318,Male,18,Suburban High,Diploma,Yes,No,1.3,94.8,9.0,0.2,70.0,70.0
+STU1198,male,15,Suburban High,Diploma,Yes,No,1.3,81.4,6.4,2.9,51.0,46.0
+STU1161,Female,18,Suburban High,Diploma,Yes,No,3.5,88.9,8.7,3.7,59.0,72.0
+STU0527,Male,16,Rural High,Diploma,Yes,Yes,3.4,67.5,6.5,2.5,43.0,56.0
+STU0721,Female,16,Urban High,Bachelor's,Yes,Yes,3.3,100.0,6.5,3.5,21.0,51.0
+STU0903,Female,18,Urban High,Bachelor's,Yes,No,0.9,91.3,5.7,5.8,88.0,75.0
+STU1090,Female,16,Rural High,Bachelor's,Yes,Yes,2.2,76.8,7.5,7.8,72.0,74.0
+STU1133,Female,18,Rural High,High School,Yes,Yes,1.6,81.5,6.0,3.5,47.0,62.0
+STU1185,Female,15,Suburban High,Master's,Yes,Yes,2.9,75.5,8.5,0.7,64.0,69.0
+STU0149,Female,16,Urban High,High School,Yes,No,2.7,84.2,4.8,4.7,67.0,65.0
+STU0879,Male,16,URBAN HIGH,Bachelor's,Yes,No,3.8,91.7,8.4,4.1,72.0,86.0
+STU0984,Female,15,Rural High,Master's,No,No,2.6,77.5,,2.6,54.0,63.0
+STU0531,Male,18,Rural High,Bachelor's,Yes,Yes,3.6,79.4,8.1,4.0,66.0,71.0
+STU0753,Female,17,Urban High,Bachelor's,Yes,No,,100.0,4.7,0.0,68.0,81.0
+STU0970,Female,17,Urban High,Diploma,Yes,No,6.0,77.6,7.6,3.7,69.0,81.0
+STU0366,Female,16,Suburban High,High School,Yes,Yes,1.1,93.6,8.1,4.3,69.0,71.0
+STU0636,Female,15,Suburban High,High School,Yes,Yes,2.8,84.6,6.1,3.0,61.0,66.0
+STU0884,Female,15,Urban High,High School,Yes,No,3.5,92.1,,6.6,91.0,82.0
+STU0820,Female,16,Urban High,Diploma,Yes,No,2.6,78.8,6.9,1.7,72.0,62.0
+STU1141,Female,15,Suburban High,High School,Yes,Yes,3.6,82.7,7.9,1.5,40.0,63.0
+STU0934,Male,18,URBAN HIGH,Diploma,No,No,2.3,88.9,4.5,5.6,82.0,71.0
+STU0489,Male,17,Urban High,High School,Yes,Yes,1.3,83.4,6.2,3.7,67.0,61.0
+STU0233,Male,15,Suburban High,Diploma,Yes,No,2.4,90.6,4.4,4.8,63.0,58.0
+STU0735,Female,17,Suburban High,Bachelor's,No,Yes,2.8,96.3,7.3,2.5,63.0,75.0
+STU0595,Female,18,Rural High,High School,Yes,No,3.8,75.0,8.0,6.4,82.0,75.0
+STU0800,Male,17,Suburban High,Bachelor's,Yes,Yes,3.0,100.0,6.0,6.2,89.0,82.0
+STU0725,Female,16,Urban High,High School,Yes,Yes,3.5,85.1,9.9,2.7,46.0,68.0
+STU0159,Male,17,Rural High,Master's,Yes,Yes,3.2,84.2,5.8,4.3,83.0,80.0
+STU0316,Female,16,Urban High,High School,No,Yes,1.9,97.7,6.5,4.5,59.0,66.0
+STU0257,Male,16,Urban High,Bachelor's,Yes,No,4.2,88.2,8.5,1.0,85.0,95.0
+STU0752,Female,15,Rural High,High School,Yes,Yes,2.7,76.1,8.2,2.8,58.0,62.0
+STU0097,Female,15,Rural High,High School,Yes,Yes,1.1,89.2,6.6,4.4,62.0,54.0
+STU1175,Female,16,Urban High,High School,No,Yes,0.9,80.3,6.8,3.8,59.0,59.0
+STU1045,Female,16,SUBURBAN HIGH,High School,Yes,No,1.5,87.5,7.3,3.2,68.0,63.0
+STU0385,Female,17,Urban High,Diploma,Yes,Yes,2.1,77.3,8.0,2.8,60.0,67.0
+STU1016,Female,15,Urban High,High School,Yes,No,3.1,86.7,5.9,4.7,54.0,59.0
+STU0178,Male,18,Suburban High,High School,Yes,Yes,3.8,84.2,7.0,3.3,58.0,61.0
+STU0329,Male,15,Urban High,High School,No,Yes,2.4,90.0,8.7,3.1,52.0,60.0
+STU0315,Female,18,Suburban High,Diploma,Yes,No,1.6,100.0,6.5,2.8,70.0,60.0
+STU0416,Female,16,Rural High,Diploma,Yes,Yes,24.0,87.0,7.1,3.4,63.0,68.0
+STU0358,Male,16,Rural High,Master's,Yes,No,2.7,70.6,6.9,4.6,35.0,52.0
+STU0348,Female,17,Urban High,High School,Yes,No,3.6,79.5,8.2,2.0,74.0,73.0
+STU1166,Male,17,Suburban High,High School,Yes,Yes,3.6,91.1,6.6,4.2,57.0,64.0
+STU0299,Male,16,Urban High,High School,No,Yes,1.1,80.7,6.1,4.3,65.0,70.0
+STU0552,Female,16,Suburban High,Diploma,Yes,Yes,,74.6,6.8,0.8,49.0,60.0
+STU0799,Male,18,Urban High,High School,Yes,No,4.0,89.5,7.0,1.7,51.0,76.0
+STU0938,Female,17,Suburban High,Bachelor's,Yes,No,0.2,82.1,4.9,6.3,65.0,58.0
+STU0695,Male,16,Rural High,Bachelor's,No,Yes,3.8,89.3,6.5,0.4,70.0,85.0
+STU0802,Female,16,Suburban High,Bachelor's,Yes,No,1.5,97.2,6.6,4.2,86.0,66.0
+STU0649,Male,16,Suburban High,High School,Yes,No,4.3,,7.1,4.8,79.0,85.0
+STU0250,Female,16,Suburban High,High School,No,Yes,0.7,90.4,7.0,3.5,54.0,57.0
+STU0790,Male,15,Urban High,Diploma,Yes,No,1.6,85.0,,2.7,51.0,60.0
+STU0016,Female,17,Urban High,Bachelor's,Yes,Yes,4.1,91.3,8.1,4.7,43.0,65.0
+STU1126,Male,18,Urban High,High School,Yes,No,3.3,85.8,5.9,3.7,41.0,41.0
+STU0160,Male,15,URBAN HIGH,High School,Y,No,2.3,99.7,7.8,6.1,44.0,51.0
+STU0965,Male,18,Urban High,High School,Yes,Yes,2.7,83.0,7.1,2.0,61.0,62.0
+STU0762,Female,16,Suburban High,Diploma,Yes,No,1.5,90.9,5.7,1.2,68.0,65.0
+STU0361,Male,18,Rural High,,No,Yes,2.0,75.5,6.3,1.9,58.0,57.0
+STU0049,Male,18,Rural High,High School,Yes,Yes,4.0,88.7,5.9,2.4,57.0,71.0
+STU0509,Female,18,Suburban High,Master's,Yes,No,2.0,87.8,7.7,0.8,66.0,78.0
+STU0331,Male,16,Urban High,Diploma,Yes,Yes,2.9,95.5,7.7,5.5,55.0,58.0
+STU0548,Female,17,Suburban High,Bachelor's,Yes,No,0.0,84.5,8.4,6.0,42.0,47.0
+STU0680,Female,17,Urban High,Bachelor's,No,Yes,0.0,76.6,6.8,4.7,77.0,71.0
+STU0113,Female,17,Urban High,Master's,Yes,Yes,5.8,87.3,8.8,1.1,37.0,73.0
+STU0339,Female,18,Suburban High,Diploma,Yes,Yes,,96.8,4.0,3.2,64.0,58.0
+STU0308,Male,16,Urban High,Master's,Yes,No,2.9,93.2,6.1,4.1,59.0,69.0
+STU1165,Female,17,Suburban High,Diploma,Yes,No,1.5,82.4,5.9,6.3,64.0,56.0
+STU0423,Female,18,Urban High,High School,Yes,No,4.1,85.4,7.8,2.9,79.0,86.0
+STU0417,Female,15,Urban High,High School,Yes,Yes,4.2,82.1,7.6,3.2,70.0,81.0
+STU1191,Female,17,Suburban High,Diploma,Yes,Yes,1.6,75.9,6.6,8.8,69.0,64.0
+STU0507,female,15,Suburban High,Bachelor's,No,No,4.6,78.5,7.1,1.7,75.0,80.0
+STU0779,Male,17,Urban High,Master's,No,Yes,3.7,79.1,8.1,5.2,42.0,63.0
+STU0840,Female,17,Urban High,High School,Yes,No,1.6,91.4,6.9,3.7,58.0,59.0
+STU0757,Female,17,Urban High,Master's,Yes,No,3.2,83.2,5.4,6.1,74.0,83.0
+STU0396,Female,17,Rural High,High School,No,No,2.1,85.5,6.7,5.6,55.0,69.0
+STU1105,Female,16,Suburban High,High School,Yes,Yes,4.4,90.9,5.4,3.0,39.0,64.0
+STU0460,Male,15,Rural High,Bachelor's,Yes,No,2.9,96.2,6.3,2.6,63.0,73.0
+STU0559,Male,18,Urban High,Diploma,Y,No,3.9,91.5,8.3,1.6,53.0,78.0
+STU0128,Female,17,Suburban High,High School,Yes,Yes,2.3,89.9,7.7,2.9,51.0,60.0
+STU0512,Male,16,Urban High,Bachelor's,Yes,Yes,3.3,86.0,7.3,2.7,73.0,77.0
+STU0926,Female,16,Suburban High,Diploma,No,Yes,2.0,88.6,8.9,2.3,57.0,68.0
+STU0529,Male,15,Urban High,Bachelor's,Yes,Yes,3.6,88.0,8.1,5.2,58.0,83.0
+STU0592,Female,16,Suburban High,Bachelor's,Yes,No,0.9,100.0,6.1,1.9,46.0,50.0
+STU0450,Male,18,Urban High,Bachelor's,No,No,1.7,100.0,7.7,3.1,36.0,53.0
+STU0238,Male,17,Urban High,High School,Yes,No,2.9,83.7,7.0,3.8,70.0,64.0
+STU0168,Male,15,Urban High,High School,Yes,Yes,2.2,85.1,6.3,4.9,60.0,55.0
+STU0621,Male,18,Urban High,High School,Yes,No,1.8,94.4,9.4,3.1,72.0,69.0
+STU0942,Male,16,SUBURBAN HIGH,High School,Yes,Yes,4.5,100.0,5.7,2.5,55.0,74.0
+STU0081,Male,16,Rural High,Bachelor's,Yes,Yes,4.0,87.5,9.0,5.0,66.0,80.0
+STU0415,Female,18,Urban High,Diploma,Yes,Yes,2.9,93.3,6.6,1.2,64.0,75.0
+STU0843,Male,17,Suburban High,Bachelor's,Yes,No,2.7,95.3,6.7,1.4,93.0,83.0
+STU0301,Male,17,Rural High,High School,Yes,Yes,3.8,81.5,7.9,1.5,69.0,83.0
+STU0633,Female,16,Urban High,Bachelor's,Yes,No,2.1,76.7,7.0,4.3,48.0,56.0
+STU0325,Male,17,Urban High,High School,Yes,No,2.4,100.0,6.1,3.4,30.0,48.0
+STU0490,Male,16,Urban High,High School,Y,No,3.2,97.4,7.3,1.9,79.0,78.0
+STU0216,Male,17,Rural High,Diploma,Yes,Yes,5.0,92.8,5.8,3.8,34.0,70.0
+STU0612,Male,16,Suburban High,Diploma,Yes,Yes,4.0,78.7,6.2,2.6,70.0,74.0
+STU0031,Male,16,Suburban High,High School,Yes,Yes,5.2,98.5,8.4,2.5,65.0,82.0
+STU0243,Female,15,Rural High,Bachelor's,Yes,Yes,3.3,89.8,7.3,1.3,78.0,79.0
+STU0719,Male,17,Urban High,Bachelor's,Yes,No,3.5,87.4,7.9,3.3,74.0,83.0
+STU0887,Female,16,Rural High,Bachelor's,Yes,Yes,0.0,84.1,7.5,5.3,52.0,53.0
+STU0986,Male,15,Rural High,Bachelor's,Yes,No,2.6,58.9,8.1,4.5,74.0,72.0
+STU0210,Female,17,Urban High,Bachelor's,Yes,No,,82.4,7.2,2.0,69.0,72.0
+STU1062,male,18,SUBURBAN HIGH,Master's,Yes,Yes,2.6,99.3,5.9,0.1,68.0,79.0
+STU1019,Female,18,Urban High,Diploma,Yes,Yes,3.0,92.9,8.9,6.9,69.0,67.0
+STU0969,Male,16,Urban High,Diploma,Yes,No,2.0,72.3,6.8,5.5,51.0,60.0
+STU0436,Female,16,Rural High,Diploma,Yes,Yes,2.0,90.1,6.2,1.0,88.0,83.0
+STU0028,Female,16,Rural High,Bachelor's,Yes,Yes,3.4,79.6,7.5,0.0,79.0,77.0
+STU1076,Female,15,Urban High,High School,Yes,Yes,2.8,80.6,9.3,3.8,59.0,65.0
+STU0639,Male,17,Urban High,Diploma,No,No,3.6,91.7,6.1,3.8,51.0,69.0
+STU0123,Female,15,Urban High,Bachelor's,Yes,No,2.3,95.6,8.1,3.6,62.0,75.0
+STU1102,Female,17,Rural High,Diploma,Yes,Yes,4.4,100.0,7.5,3.2,54.0,77.0
+STU0463,Male,17,Urban High,,Yes,No,3.2,89.9,5.3,5.9,67.0,71.0
+STU1043,Male,16,Urban High,Diploma,Yes,Yes,2.0,75.7,7.3,2.8,53.0,66.0
+STU1134,Male,15,Urban High,High School,Yes,Yes,2.6,85.4,8.0,4.3,78.0,75.0
+STU0622,Female,16,Suburban High,High School,Yes,Yes,3.3,98.4,6.6,2.5,43.0,60.0
+STU0961,Male,16,Urban High,Master's,Yes,Yes,1.8,100.0,9.1,6.8,57.0,60.0
+STU1049,Male,16,Urban High,High School,Yes,Yes,3.7,86.4,7.6,4.7,88.0,87.0
+STU0744,Female,15,Urban High,High School,Yes,Yes,3.5,85.3,6.5,1.2,42.0,63.0
+STU0627,Male,17,Urban High,Bachelor's,No,No,0.2,99.8,7.6,2.5,44.0,54.0
+STU0689,Male,18,Rural High,Master's,Yes,No,4.0,72.6,5.8,4.1,69.0,71.0
+STU0832,Male,17,Urban High,Master's,Yes,No,2.3,91.6,7.6,5.7,70.0,74.0
+STU1194,Male,15,Urban High,Master's,No,Yes,1.2,86.4,,2.0,63.0,64.0
+STU0203,Female,18,Rural High,High School,Yes,No,2.9,89.2,8.0,2.4,74.0,73.0
+STU0404,Female,18,Rural High,High School,Yes,Yes,3.4,80.4,5.5,5.9,60.0,62.0
+STU1146,Female,15,Rural High,High School,Yes,No,1.2,79.5,5.7,2.4,68.0,67.0
+STU1197,Female,16,Suburban High,High School,Yes,Yes,3.4,91.7,7.3,4.1,63.0,80.0
+STU0363,Female,18,Urban High,Bachelor's,Yes,Yes,2.6,97.8,7.2,6.8,71.0,77.0
+STU0272,Female,15,Urban High,High School,Yes,Yes,1.8,84.7,6.4,3.7,67.0,75.0
+STU0467,Male,18,Urban High,High School,Yes,Yes,2.6,92.7,6.2,2.7,88.0,81.0
+STU1077,Male,17,Suburban High,High School,Yes,Yes,4.9,92.6,5.0,2.6,59.0,67.0
+STU0240,Female,18,Urban High,High School,Yes,No,4.2,77.3,6.7,1.9,79.0,77.0
+STU0278,Female,18,Suburban High,Master's,Yes,No,3.0,88.3,6.4,3.0,62.0,86.0
+STU1075,Male,18,Rural High,Bachelor's,Yes,No,2.2,93.4,6.8,3.6,56.0,71.0
+STU0707,Male,16,Urban High,Diploma,Yes,Yes,1.5,82.5,8.5,2.5,77.0,74.0
+STU0688,Male,15,Rural High,High School,Yes,No,2.1,91.2,9.5,4.4,86.0,73.0
+STU0443,Male,16,Urban High,High School,Yes,No,3.3,67.2,7.1,4.1,67.0,70.0
+STU0300,Male,17,Suburban High,High School,No,No,4.3,87.9,4.7,2.6,68.0,74.0
+STU0376,Female,16,Urban High,High School,Yes,Yes,1.9,89.2,7.6,3.2,63.0,56.0
+STU0658,Female,16,Urban High,Diploma,Yes,No,2.5,84.0,5.3,3.0,68.0,73.0
+STU0791,Female,15,Urban High,High School,Yes,Yes,3.7,,7.4,1.7,61.0,73.0
+STU0675,Male,18,Suburban High,High School,Yes,No,4.2,98.4,6.6,1.7,57.0,72.0
+STU0473,Female,17,Urban High,Diploma,No,No,4.3,93.1,9.2,3.6,38.0,54.0
+STU0573,Female,17,Urban High,Master's,Yes,No,1.2,99.0,8.8,2.7,49.0,63.0
+STU1095,Male,16,URBAN HIGH,Diploma,Yes,No,1.5,83.4,7.3,7.1,78.0,67.0
+STU0389,Female,16,Suburban High,Master's,No,No,1.4,84.0,5.3,5.5,53.0,54.0
+STU0023,Male,18,Suburban High,Diploma,Yes,Yes,3.0,84.7,7.6,5.9,56.0,61.0
+STU0929,male,15,Rural High,High School,N,Yes,4.5,83.6,5.0,2.7,72.0,88.0
+STU0892,Male,18,Suburban High,Bachelor's,Yes,Yes,1.5,95.5,5.9,3.5,58.0,59.0
+STU0424,female,15,Suburban High,Master's,Yes,No,3.1,87.0,8.4,3.4,56.0,71.0
+STU0972,Female,16,Urban High,Bachelor's,No,Yes,1.8,73.1,7.6,5.4,68.0,69.0
+STU0732,Female,17,Suburban High,Master's,No,Yes,2.9,92.1,7.2,1.3,73.0,88.0
+STU0663,Female,18,Urban High,High School,Y,Yes,1.0,100.0,5.1,1.8,59.0,61.0
+STU0336,Male,16,Rural High,High School,Yes,Yes,1.2,84.0,9.2,3.9,46.0,55.0
+STU0143,Male,16,Urban High,Bachelor's,Yes,Yes,3.7,87.9,6.7,2.4,67.0,74.0
+STU0051,Female,15,Rural High,High School,Y,Yes,2.9,89.9,8.2,4.7,90.0,91.0
+STU0686,Female,16,Urban High,High School,No,Yes,1.8,84.0,6.6,1.6,58.0,68.0
+STU0749,Male,15,Suburban High,Diploma,Yes,Yes,2.2,77.4,6.9,1.9,68.0,70.0
+STU0082,Female,16,Urban High,High School,Yes,Yes,2.6,76.8,7.0,5.5,61.0,65.0
+STU0483,Male,17,Rural High,Bachelor's,No,No,1.6,81.2,5.4,5.2,86.0,81.0
+STU0322,Female,17,Suburban High,Bachelor's,Yes,Yes,3.5,99.9,4.9,0.8,42.0,59.0
+STU0983,Male,18,Suburban High,Bachelor's,Yes,Yes,0.6,85.7,6.6,1.4,44.0,54.0
+STU1072,Male,17,Urban High,High School,Yes,Yes,1.2,79.0,7.6,2.4,54.0,60.0
+STU1154,Female,17,Rural High,Diploma,Yes,No,2.0,79.6,8.4,4.6,67.0,64.0
+STU0067,Male,15,Suburban High,High School,Yes,Yes,2.7,,5.7,2.4,91.0,87.0
+STU1178,Female,17,Urban High,High School,Yes,No,3.2,,8.2,3.3,73.0,70.0
+STU0624,Female,17,Rural High,High School,Yes,Yes,0.2,83.8,8.2,5.2,51.0,50.0
+STU1171,Female,16,Suburban High,Bachelor's,Yes,Yes,2.1,,7.6,2.7,78.0,80.0
+STU0418,Male,17,Rural High,Diploma,Yes,Yes,1.8,92.0,6.7,1.7,54.0,70.0
+STU0890,Male,16,Urban High,Diploma,No,No,2.3,91.8,6.7,2.6,59.0,65.0
+STU0065,male,17,Urban High,High School,Yes,Yes,2.0,94.1,5.9,2.8,50.0,63.0
+STU0925,Female,16,Rural High,Bachelor's,Yes,Yes,2.9,77.5,6.5,4.8,64.0,61.0
+STU0916,Male,18,Urban High,High School,Yes,No,3.5,79.9,6.9,1.8,86.0,89.0
+STU0717,Male,17,Urban High,Master's,Yes,No,3.5,78.6,7.3,3.8,62.0,80.0
+STU0492,Male,18,Suburban High,Bachelor's,Yes,No,4.0,82.1,7.5,2.0,50.0,62.0
+STU0722,female,16,Urban High,Diploma,Yes,Yes,0.0,81.0,7.1,4.7,85.0,78.0
+STU0814,Male,16,Rural High,High School,Yes,Yes,1.2,73.5,7.2,4.7,49.0,59.0
+STU0066,Male,18,Suburban High,Diploma,Y,No,3.8,82.8,7.4,1.1,63.0,66.0
+STU1003,Female,18,Rural High,Master's,Yes,No,3.5,78.8,5.9,1.4,73.0,75.0
+STU0586,male,18,Urban High,Bachelor's,Yes,Yes,5.0,90.8,5.1,4.4,52.0,80.0
+STU1061,male,17,Rural High,Bachelor's,Yes,Yes,1.4,70.8,6.1,3.8,63.0,66.0
+STU0297,Male,18,Suburban High,High School,Yes,No,2.5,91.2,7.1,5.2,66.0,64.0
+STU0420,Male,15,Suburban High,Bachelor's,Yes,No,3.4,83.3,5.1,5.0,62.0,67.0
+STU0439,Male,16,Urban High,Diploma,Yes,No,2.6,90.3,4.9,3.4,62.0,70.0
+STU0262,Male,17,Urban High,High School,Yes,Yes,0.9,88.7,6.2,3.3,55.0,56.0
+STU0715,Male,15,Rural High,High School,Yes,No,2.3,95.8,6.9,5.7,65.0,60.0
+STU0282,Female,15,Suburban High,Master's,Yes,Yes,2.7,79.0,7.6,4.7,62.0,65.0
+STU0650,Female,17,Urban High,Bachelor's,Yes,Yes,4.0,73.0,7.4,2.0,62.0,70.0
+STU0697,Male,17,Urban High,Diploma,No,Yes,0.8,79.2,7.5,8.1,72.0,58.0
+STU0189,Male,18,Rural High,High School,No,No,1.1,90.5,7.7,2.8,66.0,61.0
+STU1064,Male,15,Urban High,High School,Yes,Yes,4.0,87.6,7.1,2.2,53.0,70.0
+STU0252,Male,17,Urban High,High School,Yes,Yes,1.6,89.6,,0.3,73.0,80.0
+STU0888,Female,16,Urban High,High School,Yes,Yes,3.5,92.4,6.8,3.9,44.0,64.0
+STU0515,Female,16,Rural High,Bachelor's,Yes,Yes,3.2,96.9,7.9,2.9,59.0,71.0
+STU0657,Male,16,Rural High,High School,Yes,No,1.9,78.6,7.1,6.0,55.0,54.0
+STU0488,Female,17,Suburban High,Bachelor's,Yes,No,4.0,77.2,6.6,4.8,79.0,77.0
+STU0274,Male,16,Rural High,High School,Yes,Yes,2.5,92.9,6.5,2.4,51.0,59.0
+STU0977,Female,16,Urban High,Bachelor's,Yes,No,24.0,79.5,7.9,3.3,100.0,91.0
+STU1089,Female,15,Urban High,Bachelor's,No,Yes,3.4,81.6,,0.7,59.0,76.0
+STU0449,Female,18,Suburban High,Diploma,Yes,No,3.3,88.6,7.3,2.6,81.0,79.0
+STU0412,Male,17,Suburban High,High School,Yes,No,1.6,82.8,6.5,2.3,55.0,59.0
+STU0870,Female,17,Urban High,High School,No,No,2.0,96.6,8.1,3.9,48.0,61.0
+STU0739,Female,16,Suburban High,Diploma,Yes,No,1.7,90.9,6.2,4.6,74.0,71.0
+STU0951,Male,17,Urban High,High School,Yes,No,3.6,83.9,6.3,7.9,83.0,73.0
+STU0967,Male,18,Rural High,Bachelor's,Yes,Yes,2.4,,7.9,11.0,54.0,58.0
+STU0150,Female,15,Urban High,High School,Yes,No,2.4,89.0,6.7,6.2,68.0,61.0
+STU0219,Male,18,Suburban High,Bachelor's,Yes,Yes,1.7,98.7,,3.2,70.0,66.0
+STU0240,Female,18,Urban High,High School,Yes,No,4.2,77.3,6.7,1.9,79.0,77.0
+STU0740,Female,15,Urban High,Bachelor's,Yes,Yes,2.1,87.3,6.9,1.6,77.0,77.0
+STU0193,Female,15,Rural High,,Yes,Yes,1.0,82.6,9.1,1.9,60.0,68.0
+STU0192,Female,18,Suburban High,High School,No,Yes,1.4,93.2,8.4,7.5,46.0,60.0
+STU0603,Male,15,Urban High,High School,Yes,Yes,2.8,78.9,6.4,4.0,64.0,66.0
+STU0741,Female,16,Urban High,High School,No,No,3.1,75.6,5.1,3.6,63.0,71.0
+STU0619,female,16,Urban High,Master's,Yes,Yes,3.8,79.7,8.7,0.8,69.0,84.0
+STU1116,Female,16,Suburban High,High School,Yes,No,3.3,84.7,6.6,6.4,74.0,68.0
+STU0937,Male,16,Rural High,Bachelor's,Yes,No,2.6,95.3,8.8,2.4,63.0,72.0
+STU0958,Female,16,Rural High,Bachelor's,Yes,No,1.5,71.7,5.3,2.1,75.0,65.0
+STU0730,Female,16,Suburban High,Master's,Yes,No,0.4,77.2,7.8,2.2,69.0,72.0
+STU0583,Female,16,Urban High,Bachelor's,Yes,No,3.7,100.0,7.1,3.8,61.0,73.0
+STU1124,Female,15,Urban High,Bachelor's,Yes,No,2.8,81.9,8.1,0.7,78.0,81.0
+STU0324,Male,17,URBAN HIGH,Master's,Yes,Yes,4.3,84.1,5.2,3.2,61.0,82.0
+STU0949,Male,17,Suburban High,Bachelor's,N,No,3.1,86.9,6.2,4.2,59.0,75.0
+STU0876,Male,17,Suburban High,Bachelor's,No,Yes,2.2,84.4,6.1,6.4,36.0,46.0
+STU0678,Female,16,Rural High,Bachelor's,Yes,No,2.2,100.0,6.0,5.0,75.0,66.0
+STU0438,Female,18,Urban High,Bachelor's,Yes,Yes,3.2,85.1,7.2,1.4,69.0,86.0
+STU0794,Female,15,Rural High,Bachelor's,Yes,No,3.6,81.8,7.0,0.0,85.0,81.0
+STU0859,Female,15,Rural High,High School,Yes,Yes,3.8,82.8,6.0,1.3,57.0,72.0
+STU0342,Male,16,Suburban High,High School,Yes,No,2.8,78.3,8.0,6.3,47.0,49.0
+STU0003,Male,18,Suburban High,Diploma,Yes,No,4.6,84.6,9.2,6.0,45.0,59.0
+STU0230,Female,16,URBAN HIGH,Bachelor's,Yes,Yes,1.6,79.8,7.8,3.5,99.0,83.0
+STU0666,Male,18,URBAN HIGH,Diploma,Yes,No,3.1,100.0,5.1,6.0,47.0,63.0
+STU1170,Female,17,Urban High,Bachelor's,Yes,Yes,3.5,75.7,8.4,2.7,64.0,80.0
+STU0077,Female,15,Urban High,High School,Yes,No,3.3,84.5,5.8,6.7,51.0,57.0
+STU1119,Female,16,Rural High,Diploma,No,Yes,3.8,86.3,5.6,4.7,58.0,70.0
+STU0372,Female,17,Suburban High,High School,Yes,Yes,,86.9,6.9,4.7,93.0,78.0
+STU0181,Male,16,Urban High,High School,No,Yes,2.6,93.1,7.1,2.5,43.0,57.0
+STU0733,Female,17,Urban High,High School,Yes,No,2.5,74.6,8.1,4.7,78.0,52.0
+STU0578,Male,16,Suburban High,Master's,Yes,No,3.1,,7.2,2.6,79.0,80.0
+STU0758,Male,15,Urban High,High School,Yes,No,3.1,91.7,6.5,1.8,59.0,69.0
+STU0782,Male,16,Urban High,High School,Yes,Yes,1.2,97.5,8.9,4.6,57.0,65.0
+STU1115,Male,16,Suburban High,Diploma,Yes,No,3.6,81.0,6.8,5.2,70.0,76.0
+STU1028,Female,15,Suburban High,High School,Yes,Yes,3.2,97.8,7.0,1.1,58.0,72.0
+STU0667,Male,18,Urban High,Diploma,Yes,No,1.9,83.4,6.0,0.7,61.0,60.0
+STU0590,Female,15,Rural High,Diploma,No,Yes,3.9,88.4,7.4,7.1,48.0,55.0
+STU0796,Female,17,Urban High,Diploma,Yes,No,3.4,83.0,7.5,3.5,65.0,73.0
+STU0838,Male,15,Urban High,High School,Yes,No,1.5,95.1,5.5,1.5,83.0,75.0
+STU0991,Male,15,Urban High,High School,Yes,Yes,1.3,97.6,8.3,2.0,63.0,69.0
+STU1088,Male,17,Suburban High,,Yes,Yes,2.7,88.6,6.4,3.3,48.0,68.0
+STU0038,Female,16,Rural High,High School,Yes,Yes,4.1,72.6,7.4,3.6,38.0,53.0
+STU0354,Male,16,Urban High,Bachelor's,Yes,Yes,1.5,73.6,5.7,5.9,54.0,59.0
+STU1111,Female,18,Suburban High,Bachelor's,No,No,1.3,84.2,4.7,3.6,45.0,58.0
+STU0237,Female,16,Rural High,Bachelor's,No,Yes,1.3,88.1,8.4,4.4,58.0,66.0
+STU0960,Male,15,Rural High,Bachelor's,Yes,No,2.8,93.4,9.1,0.5,97.0,96.0
+STU0500,Female,17,URBAN HIGH,Master's,Yes,No,3.3,91.1,6.0,2.8,62.0,72.0
+STU0554,Male,18,Suburban High,Diploma,Yes,Yes,2.7,92.9,,3.6,75.0,74.0
+STU0056,Male,18,Rural High,High School,No,Yes,1.4,90.7,9.8,5.5,57.0,69.0
+STU0303,Male,16,Urban High,Bachelor's,Yes,Yes,4.5,85.4,5.1,4.2,63.0,65.0
+STU0287,Female,18,Urban High,Master's,Yes,Yes,2.5,85.5,6.6,0.0,91.0,93.0
+STU0825,Male,16,Urban High,Diploma,Yes,No,3.3,100.0,6.9,2.0,63.0,72.0
+STU0220,Female,18,Suburban High,Bachelor's,Yes,Yes,3.3,99.7,6.4,6.0,66.0,71.0
+STU1145,Female,17,Urban High,High School,Yes,No,1.4,98.7,8.9,4.9,70.0,66.0
+STU0388,Male,17,Rural High,Diploma,Yes,Yes,3.8,100.0,6.3,4.0,36.0,65.0
+STU0759,Female,18,Suburban High,Diploma,Yes,Yes,2.6,89.6,,4.4,78.0,73.0
+STU0391,male,15,Suburban High,Master's,Yes,Yes,3.9,85.0,7.1,2.2,64.0,75.0
+STU0353,Male,16,Suburban High,Master's,Yes,No,1.9,91.4,7.3,5.5,66.0,59.0
+STU0194,male,15,Urban High,High School,Yes,Yes,0.9,95.5,,2.2,67.0,72.0
+STU0236,Male,18,Urban High,Diploma,Yes,Yes,4.5,79.1,6.6,1.1,56.0,79.0
+STU1025,Male,18,Urban High,High School,Yes,Yes,1.6,86.7,6.2,1.5,73.0,66.0
+STU0481,Female,17,Urban High,Diploma,No,No,2.4,97.6,7.4,3.5,84.0,81.0
+STU0568,Female,15,Urban High,Diploma,Yes,Yes,1.7,75.5,7.5,0.0,36.0,52.0
+STU0117,Male,17,Urban High,Bachelor's,Yes,Yes,3.3,120.0,7.4,1.2,84.0,92.0
+STU0891,Female,16,Urban High,Diploma,Yes,No,0.8,85.6,8.2,4.2,94.0,91.0
+STU0654,Female,17,Suburban High,Diploma,Yes,Yes,2.6,90.1,8.9,6.5,49.0,59.0
+STU1080,Female,17,RURAL HIGH,Bachelor's,Yes,No,1.4,88.1,6.3,1.8,73.0,66.0
+STU1122,Female,15,Suburban High,Diploma,Yes,Yes,1.3,84.2,6.8,0.5,53.0,61.0
+STU0789,Male,18,Urban High,Bachelor's,Yes,No,1.7,79.8,5.2,4.3,52.0,53.0
+STU0801,Male,18,Suburban High,Bachelor's,Yes,Yes,,91.5,6.9,0.6,38.0,76.0
+STU0121,Male,16,Urban High,Bachelor's,Yes,Yes,,83.3,6.3,4.4,61.0,71.0
+STU0841,Female,16,Suburban High,High School,Yes,No,2.4,96.4,5.4,0.7,84.0,83.0
+STU1034,male,18,Urban High,,Yes,Yes,2.0,87.5,8.0,3.7,72.0,80.0
+STU0797,Female,16,Rural High,,No,No,4.2,80.4,7.2,6.0,57.0,61.0
+STU0063,Male,16,Urban High,Master's,Yes,Yes,2.7,94.7,7.6,4.7,77.0,73.0
+STU0700,Female,15,Urban High,Bachelor's,Yes,No,3.5,95.2,6.1,3.7,46.0,69.0
+STU0454,Female,15,Urban High,Diploma,Yes,Yes,1.6,65.2,5.9,8.0,54.0,49.0
+STU0516,Female,17,Urban High,High School,Yes,Yes,1.2,83.5,6.8,7.6,57.0,52.0
+STU0571,Female,17,Rural High,Master's,Yes,No,2.3,87.8,7.8,5.7,58.0,75.0
+STU0224,Male,16,Suburban High,High School,Yes,Yes,1.2,99.2,5.6,1.1,59.0,64.0
+STU0614,Male,16,Rural High,High School,Yes,Yes,5.0,86.1,5.8,2.0,65.0,81.0
+STU0222,Female,16,Suburban High,Bachelor's,No,Yes,1.2,93.7,7.9,2.5,47.0,57.0
+STU0745,Female,18,Suburban High,Bachelor's,Yes,Yes,1.1,85.6,6.8,3.6,63.0,70.0
+STU0818,Male,15,Urban High,High School,No,Yes,2.5,92.5,6.5,4.3,58.0,72.0
+STU0466,Male,18,Urban High,Bachelor's,Yes,No,2.5,85.0,5.8,5.7,57.0,63.0
+STU0053,male,15,Rural High,High School,Yes,No,0.1,82.5,6.7,0.4,84.0,75.0
+STU1109,Male,17,Rural High,High School,Yes,Yes,2.5,78.5,6.6,3.1,53.0,59.0
+STU0486,Female,16,Urban High,Master's,Yes,No,1.9,84.2,5.6,5.0,56.0,54.0
+STU1156,Female,17,Suburban High,Diploma,Yes,No,2.6,100.0,6.8,3.6,49.0,66.0
+STU0946,Female,18,Rural High,High School,Yes,No,1.8,94.1,8.8,4.0,66.0,63.0
+STU0156,Male,15,Rural High,High School,Yes,Yes,3.5,85.2,6.6,4.2,37.0,54.0
+STU0944,Female,18,Urban High,Diploma,No,No,2.3,81.0,7.0,3.9,68.0,62.0
+STU0601,Female,17,Suburban High,High School,Yes,Yes,3.2,87.2,6.4,0.0,53.0,71.0
+STU0902,Female,15,Urban High,Diploma,Yes,Yes,2.4,79.8,8.2,5.5,63.0,66.0
+STU0249,Female,17,Rural High,High School,Yes,No,3.6,80.9,5.1,0.9,32.0,48.0
+STU0442,Female,15,Urban High,,Yes,No,2.9,92.8,7.7,1.9,50.0,66.0
+STU1012,Male,16,Urban High,High School,Yes,No,3.8,91.8,5.0,5.3,52.0,64.0
+STU1112,Female,15,Suburban High,High School,Yes,No,24.0,95.0,7.1,5.6,34.0,55.0
+STU0543,Male,15,Suburban High,High School,No,No,0.8,90.2,6.7,3.4,70.0,68.0
+STU0118,Male,15,Urban High,Bachelor's,Yes,Yes,1.1,97.0,6.2,3.4,73.0,65.0
+STU1174,Male,16,Urban High,Diploma,No,No,2.7,100.0,7.3,5.8,53.0,63.0
+STU0629,Male,18,Rural High,Diploma,No,Yes,0.7,88.7,6.8,5.9,51.0,51.0
+STU0734,Female,18,Urban High,Diploma,Yes,No,,71.5,8.4,4.6,57.0,67.0
+STU0948,Male,18,Rural High,High School,No,No,2.6,76.5,7.4,3.4,78.0,68.0
+STU0292,Female,18,Urban High,Bachelor's,Yes,No,2.2,95.4,7.7,5.6,66.0,70.0
+STU1056,Male,17,Suburban High,Bachelor's,No,Yes,3.2,74.5,6.4,1.8,85.0,73.0
+STU0382,Male,16,Urban High,Diploma,Yes,No,6.2,97.3,7.4,3.2,58.0,80.0
+STU0904,Female,18,Suburban High,Diploma,Yes,Yes,2.8,83.5,8.4,5.7,89.0,85.0
+STU0837,Male,18,Suburban High,Bachelor's,Yes,Yes,4.0,93.1,6.2,1.5,58.0,81.0
+STU0201,Male,16,Urban High,High School,Yes,Yes,2.6,97.5,7.5,4.8,77.0,75.0
+STU0597,Male,17,Rural High,High School,Yes,Yes,4.4,73.1,6.8,1.8,65.0,81.0
+STU1013,Female,18,Rural High,Bachelor's,Yes,Yes,0.8,85.1,6.3,5.3,61.0,51.0
+STU1153,Female,16,Urban High,Diploma,Yes,No,1.3,91.2,6.5,1.7,79.0,72.0
+STU0284,Female,16,Rural High,Diploma,Yes,Yes,3.2,82.7,7.4,5.3,45.0,64.0
+STU0713,Male,18,Suburban High,High School,Yes,Yes,1.6,96.4,,0.7,68.0,72.0
+STU0506,Male,18,Rural High,High School,Yes,Yes,3.5,87.5,7.0,4.1,66.0,75.0
+STU0349,Male,16,Rural High,Bachelor's,No,Yes,3.2,88.6,8.3,0.0,39.0,72.0
+STU1034,male,18,Urban High,,Yes,Yes,2.0,87.5,8.0,3.7,72.0,80.0
+STU0538,Female,16,Urban High,Bachelor's,Yes,No,3.3,99.3,7.0,3.1,65.0,72.0
+STU0341,Female,18,Urban High,High School,Yes,No,4.3,89.7,8.2,6.1,55.0,68.0
+STU0616,Male,17,Suburban High,High School,Yes,Yes,2.3,76.0,5.9,0.3,54.0,56.0
+STU0155,Female,18,Urban High,Diploma,Yes,Yes,2.7,84.2,8.7,1.1,73.0,80.0
+STU1120,Male,18,Suburban High,High School,Yes,No,3.4,86.3,6.9,3.6,61.0,55.0
+STU0786,Female,18,Urban High,Master's,No,Yes,2.6,67.7,6.8,5.4,48.0,57.0
+STU0078,Male,15,Urban High,Diploma,Yes,Yes,4.3,96.9,4.8,2.0,77.0,85.0
+STU0288,Female,16,Rural High,Bachelor's,Yes,No,1.8,75.6,5.1,3.0,80.0,74.0
+STU0323,Female,18,Urban High,High School,Yes,No,,81.8,8.0,5.7,77.0,63.0
+STU1147,Male,18,Rural High,Diploma,Yes,Yes,2.3,95.2,7.7,3.4,40.0,52.0
+STU0844,Female,18,Urban High,Master's,Yes,Yes,2.6,95.2,7.6,1.2,55.0,76.0
+STU0821,Female,17,Urban High,High School,Yes,No,1.9,83.9,6.9,6.1,59.0,51.0
+STU0083,Male,16,Urban High,Diploma,Yes,No,2.6,92.2,8.0,2.5,70.0,82.0
+STU0817,Male,16,Urban High,Diploma,Yes,No,2.5,83.5,7.8,4.9,56.0,59.0
+STU0465,Male,18,Urban High,High School,Yes,No,4.0,83.5,8.6,1.9,29.0,61.0
+STU0935,Male,17,Urban High,Diploma,Yes,No,3.2,100.0,6.9,2.5,46.0,59.0
+STU0780,Male,16,Rural High,High School,Y,No,2.6,85.8,6.4,3.3,70.0,71.0
+STU1186,Male,17,Suburban High,Bachelor's,Yes,Yes,1.7,100.0,7.5,4.9,72.0,72.0
+STU0795,Female,16,Rural High,Diploma,Y,No,1.6,85.6,5.0,2.2,52.0,57.0
+STU0334,Male,17,Urban High,High School,Yes,Yes,3.0,85.2,6.1,3.5,59.0,64.0
+STU0011,Female,17,Rural High,Bachelor's,Yes,No,2.3,85.6,5.9,9.2,61.0,64.0
+STU0471,Female,16,Rural High,Diploma,No,Yes,0.3,81.4,7.1,1.1,62.0,61.0
+STU0033,Female,15,Rural High,Diploma,Yes,Yes,0.6,86.2,7.7,6.4,62.0,56.0
+STU0191,Male,18,Suburban High,High School,Yes,No,2.3,80.7,8.7,7.4,25.0,42.0
+STU0414,Male,16,Urban High,High School,No,No,3.8,,6.3,3.3,73.0,77.0
+STU0581,Female,15,Rural High,Bachelor's,Yes,No,2.8,82.2,6.7,1.4,71.0,79.0
+STU0383,Male,16,Rural High,Diploma,Yes,No,2.5,76.2,5.4,1.9,80.0,67.0
+STU1107,Female,17,Rural High,High School,Yes,No,2.0,86.3,5.9,6.3,71.0,61.0
+STU0784,Male,16,Urban High,Diploma,Yes,Yes,1.3,91.9,6.7,0.8,66.0,65.0
+STU1149,Female,15,Urban High,Bachelor's,Yes,No,1.9,86.5,6.2,5.5,46.0,56.0
+STU0883,Male,17,Urban High,Bachelor's,Yes,Yes,3.7,91.4,7.9,3.2,85.0,90.0
+STU1158,Female,17,Suburban High,Master's,Yes,No,3.1,95.0,7.6,5.8,65.0,67.0
+STU0379,Female,18,Urban High,Diploma,Yes,Yes,,94.6,5.5,1.9,63.0,70.0
+STU0090,Female,17,Rural High,Diploma,No,No,3.9,92.4,8.8,5.0,33.0,65.0
+STU0816,Male,17,Suburban High,Bachelor's,Yes,Yes,3.1,80.1,7.6,4.8,35.0,54.0
+STU0602,Male,17,Rural High,Bachelor's,Yes,Yes,1.8,91.1,8.4,7.5,65.0,71.0
+STU0214,Male,18,Suburban High,High School,Yes,No,4.8,94.0,6.1,2.1,59.0,75.0
+STU0333,Male,17,Rural High,Diploma,Yes,Yes,1.6,76.7,8.9,6.6,80.0,67.0
+STU0134,Female,18,Urban High,Diploma,Yes,Yes,3.1,70.5,6.2,4.6,64.0,72.0
+STU0347,Male,16,Urban High,High School,No,No,3.3,82.3,4.9,6.8,61.0,50.0
+STU0881,Female,16,Rural High,Diploma,No,Yes,1.9,86.3,6.3,2.1,65.0,59.0
+STU0008,Male,16,Urban High,High School,Yes,No,24.0,91.6,6.0,4.3,69.0,72.0
+STU0864,Male,15,Rural High,Master's,Yes,Yes,2.1,80.4,8.4,1.6,72.0,79.0
+STU0321,Male,16,Rural High,High School,Yes,Yes,2.9,92.6,7.2,4.1,73.0,67.0
+STU1059,Male,15,Urban High,Diploma,Yes,No,1.6,77.2,7.3,3.6,84.0,68.0
+STU0188,Female,16,Urban High,High School,Yes,Yes,2.4,94.3,,3.9,62.0,69.0
+STU1009,Male,15,Rural High,,Y,Yes,3.2,86.0,7.0,2.7,71.0,73.0
+STU0553,Female,18,Urban High,Diploma,Yes,No,2.6,74.2,6.2,2.1,75.0,71.0
+STU0305,Male,18,Suburban High,Diploma,No,No,2.0,100.0,8.4,2.9,64.0,66.0
+STU0032,Male,17,Suburban High,Master's,Yes,Yes,3.9,86.4,8.4,4.7,52.0,69.0
+STU0857,Male,18,Urban High,High School,No,Yes,3.4,82.5,8.1,8.3,59.0,72.0
+STU0685,Male,16,Suburban High,Master's,No,Yes,1.1,72.0,5.5,2.8,41.0,52.0
+STU1081,Female,16,Urban High,Master's,Yes,No,4.4,87.5,6.7,4.4,37.0,63.0
+STU0241,Male,16,Suburban High,Bachelor's,Yes,No,2.3,86.0,6.4,5.7,61.0,64.0
+STU0068,Female,18,Rural High,High School,Yes,Yes,1.5,83.5,7.8,5.9,57.0,61.0
+STU0175,Female,18,Rural High,Bachelor's,Yes,Yes,2.6,89.0,6.5,1.8,74.0,74.0
+STU0767,Female,17,Urban High,Diploma,Yes,No,2.4,,7.0,2.8,81.0,70.0
+STU0246,Male,17,Suburban High,Diploma,No,Yes,4.7,88.1,7.7,4.3,54.0,74.0
+STU0057,Female,17,Rural High,High School,Yes,Yes,3.2,88.3,7.9,3.2,63.0,72.0
+STU0631,Male,16,Suburban High,Master's,Yes,No,2.7,83.8,7.0,5.5,90.0,88.0
+STU0584,Female,15,Rural High,,Yes,Yes,2.6,79.0,8.6,0.9,62.0,76.0
+STU1040,Female,17,Rural High,High School,Yes,No,4.3,96.3,8.1,2.4,32.0,66.0
+STU0146,Female,17,Urban High,Bachelor's,Yes,No,1.2,90.3,7.7,5.0,62.0,62.0
+STU0091,Female,16,Suburban High,High School,Yes,Yes,3.0,81.5,6.7,4.0,57.0,56.0
+STU1130,male,16,Rural High,Diploma,Yes,Yes,1.9,81.9,7.3,3.9,51.0,55.0
+STU0393,Male,18,Suburban High,High School,Yes,Yes,1.2,,7.5,3.5,55.0,54.0
+STU0875,Male,16,Suburban High,Diploma,Yes,Yes,3.8,96.6,5.8,3.0,57.0,70.0
+STU0683,Female,16,Rural High,,Yes,No,2.3,86.5,4.9,4.4,53.0,69.0
+STU0311,Female,15,Suburban High,Diploma,Yes,Yes,5.2,,7.0,0.3,55.0,86.0
+STU0360,Male,18,Rural High,Diploma,Yes,Yes,2.9,77.1,7.3,3.1,70.0,75.0
+STU0094,Female,16,Suburban High,Diploma,Yes,No,3.0,91.8,7.7,4.3,56.0,71.0
+STU0982,Male,18,Suburban High,Bachelor's,No,No,2.7,84.3,6.6,2.3,51.0,62.0
+STU1039,Female,16,Urban High,High School,Yes,No,1.7,88.3,6.4,2.4,47.0,54.0
+STU0377,Male,17,Rural High,High School,Yes,Yes,2.8,82.7,5.6,4.6,41.0,48.0
+STU0244,Male,15,SUBURBAN HIGH,,Yes,No,2.2,81.7,6.1,4.9,40.0,44.0
+STU1092,Male,17,Urban High,High School,Yes,No,3.7,93.9,5.3,4.2,71.0,73.0
+STU0088,Female,16,Suburban High,Master's,Yes,Yes,1.6,77.6,7.3,4.0,40.0,49.0
+STU0215,Male,15,Urban High,Diploma,Yes,Yes,2.8,79.1,6.4,4.9,79.0,68.0
+STU0445,Female,15,Urban High,Diploma,Yes,Yes,3.8,92.1,8.4,1.5,49.0,71.0
+STU0174,Male,18,Suburban High,Bachelor's,No,Yes,1.8,82.6,8.8,3.0,60.0,59.0
+STU0426,Male,17,Suburban High,Master's,Yes,Yes,4.2,84.3,5.9,5.2,53.0,71.0
+STU1055,Female,18,Suburban High,Diploma,Yes,Yes,4.5,80.3,8.8,3.4,80.0,80.0
+STU0119,Female,17,Rural High,Master's,No,No,3.5,84.7,6.3,3.0,69.0,85.0
+STU0120,Male,18,Urban High,Diploma,Yes,Yes,1.7,78.2,7.0,4.1,88.0,81.0
+STU0940,Female,18,Rural High,Diploma,Yes,Yes,5.3,94.9,6.1,2.5,57.0,87.0
+STU0894,female,16,Rural High,High School,No,Yes,1.7,74.4,8.4,2.1,49.0,52.0
+STU0001,Male,17,Rural High,High School,Yes,Yes,3.7,99.2,7.8,4.9,81.0,95.0
+STU0395,Female,18,Suburban High,High School,No,No,1.6,59.8,7.0,3.4,61.0,56.0
+STU0402,Male,15,Rural High,Diploma,Yes,Yes,3.0,76.2,6.9,4.9,60.0,70.0
+STU0405,Male,16,Urban High,Diploma,Yes,Yes,2.4,78.5,6.9,2.6,56.0,62.0
+STU0862,Male,16,Rural High,Diploma,Yes,No,1.4,81.8,8.4,4.5,80.0,73.0
+STU0873,Male,16,Rural High,Bachelor's,Yes,Yes,1.9,74.1,7.6,5.5,64.0,59.0
+STU0163,Female,17,Suburban High,High School,Yes,Yes,,90.7,7.1,0.0,58.0,70.0
+STU0115,Female,15,Urban High,Bachelor's,Yes,Yes,2.1,87.2,7.7,0.9,74.0,80.0
+STU0671,Female,16,Urban High,Master's,Yes,Yes,3.7,93.7,6.4,2.1,66.0,79.0
+STU0151,Male,17,Rural High,High School,Yes,No,2.2,96.1,6.5,3.5,77.0,69.0
+STU0962,Female,16,Urban High,High School,No,Yes,2.9,81.8,,4.8,39.0,65.0
+STU0829,Male,17,Rural High,High School,Yes,No,4.3,82.4,6.6,1.6,46.0,66.0
+STU0562,Female,15,Suburban High,High School,Yes,Yes,4.1,85.4,8.0,2.7,56.0,62.0
+STU0369,Female,16,Suburban High,Diploma,Yes,No,,81.4,7.8,6.6,68.0,70.0
+STU0544,Male,18,Urban High,Diploma,Yes,Yes,2.0,91.5,7.6,1.2,44.0,61.0
+STU0478,Male,16,Urban High,Diploma,Yes,Yes,3.9,76.9,5.5,4.9,64.0,68.0
+STU1144,Male,16,Urban High,High School,Yes,Yes,2.8,94.1,6.8,3.2,74.0,80.0
+STU0533,Female,17,Rural High,Diploma,Yes,No,3.0,81.2,8.9,3.6,65.0,68.0
+STU0626,Female,15,Urban High,Bachelor's,Yes,No,2.6,91.1,6.2,3.6,65.0,62.0
+STU1121,Male,15,Rural High,Diploma,Yes,Yes,4.0,79.7,7.6,3.8,59.0,71.0
+STU0513,Female,18,Rural High,Bachelor's,Yes,Yes,3.3,78.1,7.2,6.3,43.0,64.0
+STU0826,Female,16,Suburban High,Diploma,Yes,No,1.0,91.4,5.5,0.2,52.0,54.0
+STU0073,Male,16,Suburban High,High School,Yes,Yes,4.3,81.0,7.8,4.9,58.0,73.0
+STU0808,Female,15,Urban High,Diploma,Yes,No,5.3,88.4,8.5,0.0,70.0,83.0
+STU0259,Female,18,Urban High,Bachelor's,Yes,Yes,2.3,88.8,6.9,6.3,53.0,54.0
+STU0625,Male,17,Urban High,High School,No,Yes,4.1,68.6,5.0,1.0,64.0,77.0
+STU0235,Male,16,Rural High,High School,Yes,Yes,1.9,80.5,7.9,4.8,59.0,57.0
+STU0136,Female,18,Rural High,Master's,Yes,Yes,3.0,100.0,6.5,1.7,100.0,98.0
+STU0617,Male,17,Suburban High,Bachelor's,Yes,Yes,3.1,92.2,7.1,3.6,83.0,81.0
+STU0517,Female,16,Urban High,Diploma,Yes,No,2.6,92.4,5.4,4.2,80.0,80.0
+STU0893,Female,17,Rural High,Master's,Yes,Yes,2.2,78.0,6.1,3.7,50.0,57.0
+STU0803,Male,18,Suburban High,High School,No,Yes,2.5,79.4,7.5,4.4,63.0,71.0
+STU0810,Male,17,Urban High,High School,Yes,No,3.1,99.4,7.9,2.6,50.0,74.0
+STU0593,Female,16,Urban High,Diploma,No,Yes,1.7,84.4,6.2,0.9,38.0,57.0
+STU1071,Male,17,Urban High,High School,Yes,No,2.9,74.9,6.8,6.8,62.0,61.0
+STU0502,Male,18,Suburban High,Bachelor's,Y,Yes,2.2,95.6,8.0,3.7,70.0,73.0
+STU0539,Female,17,Urban High,Bachelor's,No,Yes,1.8,88.4,6.7,9.4,65.0,64.0
+STU0927,Female,16,Urban High,Bachelor's,Yes,Yes,4.3,90.0,7.2,4.5,37.0,62.0
+STU0729,Female,15,Rural High,Bachelor's,No,No,2.7,92.6,8.1,6.9,52.0,62.0
+STU0582,Male,17,Urban High,High School,Yes,No,2.1,97.1,7.9,3.7,64.0,66.0
+STU0344,Male,15,Suburban High,Bachelor's,No,Yes,2.0,89.0,6.7,3.2,62.0,72.0
+STU0957,Male,15,Rural High,Bachelor's,Yes,Yes,3.4,93.1,5.5,3.3,78.0,72.0
+STU0979,Male,16,Rural High,Diploma,Yes,No,4.3,77.3,5.8,3.1,81.0,86.0
+STU0294,Female,17,Suburban High,Diploma,Yes,No,1.3,72.1,5.0,3.5,38.0,44.0
+STU0365,Male,17,Urban High,High School,Yes,No,3.0,82.3,7.2,3.4,48.0,66.0
+STU0880,Male,15,Urban High,Master's,Yes,Yes,4.1,81.9,5.5,3.0,61.0,78.0
+STU0660,Female,16,Urban High,High School,Yes,Yes,2.7,79.9,9.0,3.2,73.0,66.0
+STU0015,Female,16,Rural High,Bachelor's,Yes,Yes,1.8,120.0,6.6,6.8,65.0,61.0
+STU0687,Female,15,Urban High,Master's,No,No,1.4,73.0,7.7,5.4,64.0,68.0
+STU0087,Male,16,Suburban High,High School,Yes,Yes,,88.1,8.2,3.2,58.0,74.0
+STU0371,Male,16,Urban High,Master's,Yes,No,3.3,86.4,5.0,4.2,73.0,74.0
+STU0166,Female,17,Urban High,Bachelor's,Yes,No,1.7,91.6,7.1,3.1,46.0,56.0
+STU0132,Male,16,Rural High,Master's,Yes,No,5.0,78.9,6.5,6.0,70.0,83.0
+STU0336,Male,16,Rural High,High School,Yes,Yes,1.2,84.0,9.2,3.9,46.0,55.0
+STU0060,Female,18,Rural High,High School,Yes,No,2.6,82.0,7.0,3.5,78.0,74.0
+STU0710,Female,18,Suburban High,Bachelor's,Yes,Yes,1.7,80.1,7.9,5.3,86.0,67.0
+STU0677,Male,16,Urban High,Diploma,Yes,Yes,3.6,81.1,6.4,5.3,62.0,64.0
+STU0355,Female,16,Suburban High,High School,Yes,Yes,0.6,88.3,7.7,4.0,45.0,55.0
+STU0994,Female,15,Urban High,High School,Yes,Yes,3.5,76.6,5.1,5.3,66.0,71.0
+STU0425,Male,16,Suburban High,Bachelor's,Yes,Yes,4.3,92.4,6.8,3.5,75.0,87.0
+STU0293,Male,17,Suburban High,Diploma,Yes,No,2.8,72.8,7.9,1.3,51.0,52.0
+STU0042,Male,16,Urban High,High School,Yes,Yes,4.7,88.3,5.4,2.0,70.0,76.0
+STU0330,Female,16,Suburban High,Master's,No,Yes,0.0,85.6,7.8,6.1,60.0,53.0
+STU0615,Female,18,Urban High,Diploma,Yes,No,3.6,84.7,6.2,1.5,54.0,72.0
+STU0430,Male,16,Suburban High,Master's,Yes,Yes,3.7,88.2,6.4,3.6,74.0,88.0
+STU0080,Male,17,Suburban High,High School,Yes,No,3.5,92.5,5.7,1.5,95.0,87.0
+STU0694,Female,15,Suburban High,Diploma,Yes,No,4.4,92.6,7.9,0.0,59.0,79.0
+STU0029,Female,18,Rural High,Bachelor's,Yes,No,4.9,83.7,6.7,4.5,52.0,70.0
+STU0708,Male,15,Rural High,High School,Yes,Yes,2.4,92.1,7.6,4.8,82.0,78.0
+STU0928,Male,16,Suburban High,Bachelor's,Yes,No,,88.8,6.1,6.4,54.0,60.0
+STU0922,Male,15,URBAN HIGH,Diploma,Yes,No,2.6,96.7,6.8,4.5,57.0,58.0
+STU0255,Female,16,Rural High,Bachelor's,Yes,No,2.5,100.0,7.8,6.3,65.0,55.0
+STU0161,Female,17,Rural High,Master's,Yes,No,3.1,78.7,5.3,0.4,63.0,78.0
+STU0459,Male,16,Suburban High,Diploma,Yes,Yes,2.6,93.6,7.3,4.8,67.0,75.0
+STU0384,Female,16,Urban High,High School,Yes,No,0.5,100.0,6.6,3.1,59.0,54.0
+STU0314,Female,17,Urban High,Diploma,No,Yes,4.5,90.6,10.0,2.5,64.0,76.0
+STU0085,Female,18,Suburban High,High School,No,Yes,2.9,93.0,6.8,2.2,37.0,52.0
+STU0575,Male,17,Rural High,Bachelor's,Yes,Yes,1.5,94.3,7.1,2.6,56.0,67.0
+STU0763,Female,17,Urban High,Bachelor's,Yes,No,5.4,98.3,6.5,1.2,95.0,99.0
+STU0137,Male,15,Suburban High,High School,Yes,No,1.3,88.7,,3.9,64.0,64.0
+STU0112,Female,18,Urban High,Bachelor's,Yes,Yes,2.4,98.2,6.8,6.8,48.0,66.0
+STU0195,female,18,Urban High,Diploma,Yes,Yes,2.4,86.6,7.3,1.6,37.0,54.0
+STU0853,Male,16,Urban High,Bachelor's,Yes,No,3.7,84.6,8.5,2.8,54.0,67.0
+STU0179,Male,17,Urban High,Bachelor's,Yes,Yes,3.7,97.3,7.7,2.3,63.0,74.0
+STU0556,Female,17,Urban High,High School,No,Yes,4.1,90.4,7.0,5.7,74.0,75.0
+STU0724,Male,16,Rural High,High School,Yes,Yes,,67.2,6.8,1.6,50.0,70.0
+STU1024,Male,15,Urban High,Master's,Yes,Yes,0.0,86.1,6.8,4.0,64.0,60.0
+STU0497,Female,15,Suburban High,Diploma,N,Yes,0.7,88.4,9.0,4.3,79.0,80.0
+STU0886,female,16,Rural High,High School,Yes,No,1.4,86.4,5.4,2.6,98.0,89.0
+STU0806,Female,18,Urban High,Diploma,Yes,No,4.2,91.2,5.2,2.2,74.0,74.0
+STU0130,Male,15,Rural High,Bachelor's,Yes,Yes,4.3,91.7,10.0,3.0,68.0,81.0
+STU0716,Female,16,Rural High,Bachelor's,No,No,2.5,95.8,7.1,3.1,69.0,79.0
+STU0338,Male,17,Rural High,Bachelor's,Yes,Yes,2.1,93.1,8.1,0.0,44.0,75.0
+STU1084,Male,17,Rural High,,No,Yes,3.4,84.0,7.2,1.8,71.0,86.0
+STU0609,Male,16,Urban High,Diploma,Yes,Yes,0.6,87.1,7.7,4.1,60.0,65.0
+STU0125,Female,16,Suburban High,Bachelor's,Yes,Yes,3.5,90.3,5.2,0.9,62.0,86.0
+STU0196,Female,15,Suburban High,Bachelor's,Yes,Yes,2.7,96.2,5.5,5.4,61.0,68.0
+STU0227,Female,15,Rural High,High School,Yes,Yes,2.2,100.0,7.6,5.9,64.0,74.0
+STU0690,Male,16,Suburban High,,Yes,Yes,24.0,77.8,6.8,1.9,50.0,72.0
+STU0269,Female,17,RURAL HIGH,Bachelor's,Yes,Yes,1.8,100.0,8.1,3.5,63.0,65.0
+STU0153,Female,16,Rural High,Diploma,Yes,Yes,,92.4,7.7,4.8,51.0,65.0
+STU0585,Male,16,Urban High,Master's,Yes,Yes,1.4,85.9,5.3,5.1,65.0,69.0
+STU1169,Male,16,Suburban High,High School,Y,Yes,,100.0,7.5,0.0,83.0,100.0
+STU0104,Male,16,Suburban High,Bachelor's,No,No,2.0,86.2,6.9,3.9,60.0,65.0
+STU0594,Male,17,Rural High,Bachelor's,Yes,No,4.4,84.3,7.2,6.3,57.0,63.0
+STU1113,Male,16,Suburban High,Bachelor's,Yes,No,3.6,72.5,8.6,7.7,60.0,66.0
+STU0787,Male,16,Suburban High,High School,Yes,Yes,3.3,74.5,6.8,3.5,64.0,73.0
+STU0999,Male,16,Rural High,High School,Yes,No,1.0,84.7,6.3,3.6,60.0,59.0
+STU0885,Female,17,Urban High,Bachelor's,Yes,No,1.1,77.1,6.5,5.2,64.0,57.0
+STU0777,Male,16,Suburban High,Bachelor's,No,Yes,1.5,88.8,6.0,4.0,100.0,76.0
+STU0930,Male,15,Urban High,Diploma,Yes,No,2.8,79.3,5.1,2.9,59.0,65.0
+STU0850,Male,16,Rural High,High School,Yes,No,2.8,88.9,6.4,3.0,66.0,65.0
+STU0895,Male,18,Rural High,High School,Yes,Yes,2.9,59.4,7.1,4.4,78.0,79.0
+STU0228,Male,15,Urban High,High School,Yes,Yes,1.6,96.5,8.8,5.5,44.0,60.0
+STU1135,Male,16,Suburban High,Master's,Yes,Yes,0.7,,6.4,1.7,59.0,61.0
+STU0302,Female,18,Rural High,Bachelor's,Yes,Yes,4.4,97.4,6.4,6.3,58.0,73.0
+STU0855,Female,16,Urban High,Diploma,Yes,Yes,3.4,83.8,6.2,3.8,39.0,58.0
+STU0276,Female,17,Rural High,Diploma,Yes,No,2.9,96.9,6.9,3.5,75.0,81.0
+STU0127,Female,16,Suburban High,Master's,Yes,Yes,3.3,76.6,6.5,4.5,70.0,84.0
+STU0406,Male,16,Urban High,High School,Yes,No,2.6,86.5,5.4,6.0,49.0,62.0
+STU0776,Male,16,Urban High,High School,Yes,Yes,4.5,99.5,6.9,1.4,59.0,93.0
+STU0822,Male,15,Suburban High,High School,Yes,No,3.9,88.8,8.3,1.0,53.0,64.0
+STU0712,Male,15,Urban High,Bachelor's,Yes,No,4.6,100.0,,2.7,77.0,85.0
+STU0766,Female,15,Rural High,High School,Yes,No,2.4,77.0,6.9,5.3,73.0,69.0
+STU0684,Female,17,Suburban High,High School,Yes,No,4.9,96.0,7.2,2.4,55.0,70.0
+STU0750,Male,18,Urban High,Bachelor's,Yes,No,2.5,87.4,6.5,1.1,66.0,81.0
+STU1138,female,16,Rural High,High School,Yes,Yes,2.1,82.2,6.4,5.3,53.0,56.0
+STU0037,Female,16,Rural High,Bachelor's,Yes,No,2.8,87.2,8.8,4.0,65.0,74.0
+STU0140,Female,16,Rural High,Diploma,Yes,Yes,2.3,92.0,8.4,4.2,80.0,78.0
+STU0304,Female,16,Suburban High,Diploma,Yes,Yes,3.6,87.6,6.8,3.9,86.0,89.0
+STU0268,Female,16,Urban High,High School,Yes,No,4.9,90.2,7.6,2.3,65.0,68.0
+STU0835,Male,15,Urban High,Diploma,Yes,Yes,2.8,82.1,9.2,6.0,48.0,55.0
+STU0534,Male,16,Suburban High,Diploma,Yes,Yes,2.5,88.4,7.7,1.3,64.0,73.0
+STU0546,Female,17,Urban High,High School,Yes,No,,84.0,6.6,3.2,47.0,63.0
+STU0213,Female,18,Rural High,Diploma,Yes,Yes,4.2,91.8,7.0,2.7,84.0,85.0
+STU0897,Female,15,Suburban High,Diploma,Yes,No,5.5,81.4,,5.2,55.0,70.0
+STU0469,Female,15,Suburban High,Master's,No,No,2.3,85.6,7.3,2.9,73.0,75.0
+STU0199,Female,17,Suburban High,Diploma,Yes,Yes,2.7,85.0,7.2,7.1,62.0,73.0
+STU1041,Female,16,Urban High,High School,Yes,No,3.5,76.7,7.5,7.0,40.0,48.0
+STU0868,Male,18,Suburban High,Bachelor's,No,Yes,2.5,78.3,7.6,5.0,62.0,66.0
+STU0673,Male,18,SUBURBAN HIGH,Bachelor's,No,Yes,3.6,98.2,7.1,3.7,64.0,69.0
+STU0917,Female,16,Suburban High,Diploma,No,Yes,3.4,73.2,5.5,6.0,57.0,62.0
+STU0528,Male,18,Rural High,Diploma,No,Yes,2.8,70.4,6.8,1.8,45.0,56.0
+STU0676,Female,17,Suburban High,High School,Y,Yes,2.2,87.1,10.0,1.1,39.0,60.0
+STU1073,Female,17,Rural High,High School,Yes,Yes,2.0,87.8,6.5,2.2,61.0,56.0
+STU0815,Female,16,Urban High,High School,Yes,Yes,4.3,99.0,8.3,2.9,59.0,68.0
+STU0242,Male,15,Suburban High,Bachelor's,Yes,Yes,3.5,93.7,6.4,7.0,49.0,63.0
+STU0343,Male,16,Urban High,High School,Yes,No,2.9,80.8,5.7,5.0,53.0,58.0
+STU0550,Female,16,Suburban High,Diploma,Yes,Yes,,86.4,6.8,4.2,69.0,60.0
+STU0387,Male,16,Rural High,High School,Yes,Yes,3.1,77.4,5.2,3.9,49.0,62.0
+STU1117,Female,15,Rural High,High School,Yes,Yes,4.6,87.4,6.2,3.5,40.0,59.0
+STU0207,Female,18,Rural High,Bachelor's,Yes,Yes,3.9,94.6,9.1,2.2,55.0,75.0
+STU0296,Male,17,Urban High,Bachelor's,Yes,No,1.7,88.8,7.5,2.1,72.0,66.0
+STU0696,Male,15,Urban High,Diploma,Yes,Yes,2.7,86.3,9.5,2.9,59.0,74.0
+STU1052,Female,17,Rural High,Bachelor's,N,Yes,5.1,82.5,6.5,2.7,46.0,66.0
+STU0074,Female,17,Rural High,High School,Yes,Yes,1.2,84.4,6.7,4.7,55.0,53.0
+STU0606,Male,17,Suburban High,Bachelor's,Yes,Yes,2.6,73.7,6.2,4.3,79.0,75.0
+STU0105,Male,18,Urban High,High School,Yes,Yes,1.8,89.9,6.4,3.4,58.0,60.0
+STU0976,Male,17,Urban High,High School,Yes,Yes,3.3,100.0,7.1,5.1,40.0,58.0
+STU1006,Female,17,Suburban High,High School,Yes,Yes,3.1,78.8,7.7,1.3,85.0,77.0
+STU1184,Female,15,Suburban High,Diploma,Yes,Yes,1.5,86.2,8.1,4.1,71.0,71.0
+STU0017,Male,16,Urban High,Diploma,Yes,Yes,1.2,89.6,7.2,6.3,58.0,70.0
+STU0440,Male,17,Urban High,Bachelor's,Yes,No,4.1,89.5,7.1,8.6,62.0,78.0
+STU0092,Male,17,URBAN HIGH,Bachelor's,Yes,Yes,1.0,83.1,6.5,4.9,65.0,66.0
+STU0089,Female,16,Urban High,Bachelor's,Yes,Yes,4.0,89.0,5.8,2.3,61.0,79.0
+STU1051,Male,17,Rural High,Bachelor's,No,No,2.7,88.5,7.3,6.0,66.0,71.0
+STU0909,Female,150,Rural High,Bachelor's,Y,No,,78.5,7.6,2.8,41.0,53.0
+STU0451,Female,16,Urban High,Master's,Yes,Yes,2.0,97.0,6.5,6.4,80.0,79.0
+STU0718,Female,17,Rural High,Bachelor's,Yes,No,2.1,64.8,8.0,2.0,68.0,65.0
+STU0103,Female,17,Suburban High,Diploma,Yes,No,3.4,92.4,8.0,2.5,96.0,92.0
+STU0239,Female,18,Suburban High,Bachelor's,No,No,,89.2,7.1,3.5,46.0,62.0
+STU1023,Male,16,Rural High,Bachelor's,Yes,Yes,3.2,81.1,7.8,4.2,60.0,72.0
+STU0943,Female,17,Urban High,Master's,Yes,Yes,1.7,91.8,8.9,4.7,67.0,71.0
+STU0247,Male,18,Suburban High,Bachelor's,Yes,No,3.4,92.5,8.2,0.0,92.0,94.0
+STU0939,Male,17,Urban High,High School,No,Yes,0.7,96.9,6.1,5.4,52.0,55.0
+STU1011,Male,18,Rural High,Bachelor's,Yes,Yes,3.0,67.3,6.3,3.7,72.0,67.0
+STU0158,Male,16,Urban High,High School,Yes,Yes,2.6,72.3,5.9,1.3,75.0,68.0
+STU0480,Female,17,Urban High,Diploma,Yes,Yes,2.1,88.1,8.2,2.5,56.0,67.0
+STU0839,Female,17,Urban High,,Yes,No,1.6,98.2,7.6,5.8,64.0,66.0
+STU0646,Male,17,Suburban High,High School,Yes,Yes,3.9,83.8,7.2,0.0,72.0,89.0
+STU0006,Male,15,Urban High,High School,Yes,Yes,2.5,82.6,5.7,1.4,67.0,67.0
+STU1091,Female,18,Rural High,Diploma,No,Yes,1.5,83.1,6.1,3.8,54.0,55.0
+STU0872,Female,16,Rural High,High School,No,No,4.5,80.6,7.2,4.6,54.0,73.0
+STU0966,Female,16,Urban High,Bachelor's,Yes,No,2.7,85.9,7.2,6.0,64.0,62.0
+STU0019,Male,17,Urban High,High School,Yes,No,4.2,,5.4,5.4,77.0,81.0
+STU0998,Female,17,Urban High,High School,No,Yes,4.3,84.7,7.7,3.3,40.0,64.0
+STU0122,Male,16,Rural High,Diploma,Yes,Yes,2.5,70.4,6.4,2.9,63.0,61.0
+STU0947,Male,15,Suburban High,Master's,Yes,No,4.7,95.4,7.0,4.4,35.0,51.0
+STU0662,Male,18,Urban High,Master's,Yes,No,1.9,91.9,6.4,3.3,45.0,57.0
+STU0997,Male,15,Urban High,Diploma,Yes,No,,84.0,,3.7,46.0,56.0
+STU0275,Male,17,Rural High,Master's,No,Yes,2.2,100.0,8.1,3.1,63.0,65.0
+STU0434,Male,17,Suburban High,Diploma,Yes,No,4.6,79.0,5.2,3.3,54.0,64.0
+STU0812,Female,16,Suburban High,High School,Yes,Yes,4.2,94.1,7.3,3.1,67.0,89.0
+STU1143,Male,17,Suburban High,Bachelor's,Yes,No,4.1,75.2,6.4,0.7,51.0,66.0
+STU0312,Female,15,Urban High,Diploma,Yes,No,2.6,88.8,6.9,3.6,60.0,74.0
+STU1127,Female,16,Urban High,Bachelor's,Yes,Yes,3.6,83.1,5.6,1.3,69.0,72.0
+STU1139,Female,17,Urban High,High School,Yes,No,4.7,83.5,8.1,1.6,55.0,77.0
+STU0781,Female,18,Suburban High,Diploma,Yes,Yes,1.1,78.8,4.3,3.2,73.0,64.0
+STU0547,Female,17,Urban High,High School,Yes,Yes,3.5,88.0,8.1,2.8,72.0,88.0
+STU0182,Male,15,Suburban High,Bachelor's,Yes,Yes,2.2,89.4,8.1,2.7,65.0,71.0
+STU0185,Male,18,Urban High,Diploma,Yes,Yes,3.7,,8.1,2.6,76.0,90.0
+STU0407,Female,18,Urban High,Diploma,Yes,No,4.1,99.2,6.6,5.8,51.0,69.0
+STU0720,Male,18,Urban High,Diploma,Yes,Yes,0.3,97.0,7.2,1.5,62.0,64.0
+STU1047,Female,16,RURAL HIGH,Master's,No,Yes,4.2,84.7,6.7,2.6,41.0,55.0
+STU0607,Male,15,Rural High,High School,Yes,No,2.4,90.5,7.6,0.8,59.0,68.0
+STU0693,Female,17,Suburban High,High School,Yes,No,1.4,86.7,6.2,3.5,73.0,63.0
+STU0521,Male,15,Suburban High,Master's,Yes,No,,77.6,5.9,6.6,42.0,54.0
+STU0866,Male,18,Urban High,High School,Yes,Yes,1.1,74.4,6.7,5.6,75.0,68.0
+STU1004,Female,15,Suburban High,Bachelor's,Yes,Yes,3.9,78.3,6.2,2.7,36.0,72.0
+STU0381,Male,18,Urban High,High School,Yes,No,1.7,87.5,4.9,4.9,37.0,43.0
+STU0993,Male,17,Suburban High,Bachelor's,Yes,No,4.2,,5.2,3.4,67.0,82.0
+STU0411,Male,16,Urban High,High School,Yes,Yes,3.7,96.4,6.8,8.0,49.0,66.0
+STU0635,Female,16,SUBURBAN HIGH,High School,Yes,No,2.3,95.5,5.6,3.0,71.0,60.0
+STU0370,Male,16,Suburban High,High School,Yes,No,1.9,88.6,5.0,0.9,50.0,54.0
+STU1085,Male,16,Rural High,Master's,Yes,No,4.0,83.8,8.2,2.0,72.0,85.0
+STU1099,Male,15,Urban High,Diploma,Yes,Yes,3.9,73.0,8.5,2.5,20.0,54.0
+STU0428,Male,15,Urban High,Bachelor's,Yes,Yes,0.0,87.2,7.4,1.5,71.0,78.0
+STU0877,female,18,Rural High,Diploma,Yes,Yes,5.2,84.6,,2.9,57.0,78.0
+STU0079,Male,18,Urban High,High School,Yes,Yes,1.2,83.2,6.2,2.0,63.0,51.0
+STU0863,Male,17,Urban High,High School,Yes,Yes,,90.8,7.2,1.3,40.0,57.0
+STU0574,Male,18,Suburban High,,Yes,No,2.8,97.7,6.9,3.4,41.0,54.0
+STU1010,Female,15,Urban High,Master's,Yes,Yes,3.4,100.0,,0.7,52.0,68.0
+STU1190,Male,15,Urban High,Bachelor's,Yes,No,3.5,83.3,8.5,3.9,43.0,55.0
+STU0638,Male,16,Urban High,Bachelor's,Yes,No,1.9,100.0,7.4,2.7,57.0,66.0
+STU0608,Female,16,Urban High,High School,Yes,Yes,4.0,74.6,7.4,1.7,50.0,62.0
+STU1195,Male,17,Urban High,High School,Yes,No,1.5,86.3,6.0,6.5,52.0,50.0
+STU0069,Female,16,Rural High,Diploma,Yes,Yes,0.8,97.5,7.0,2.7,56.0,70.0
+STU0860,Female,15,Urban High,Bachelor's,Yes,Yes,2.9,85.7,6.4,4.1,68.0,71.0
+STU1182,Female,16,Suburban High,Master's,Yes,Yes,4.3,77.4,6.9,3.6,74.0,76.0
+STU1057,Male,18,Suburban High,Master's,Yes,No,5.8,86.6,8.1,4.5,65.0,76.0
+STU0959,Female,16,RURAL HIGH,High School,Yes,Yes,3.1,81.4,6.4,4.2,63.0,73.0
+STU0560,Female,18,Suburban High,High School,Yes,Yes,3.6,89.3,5.9,3.9,64.0,66.0
+STU0847,Female,16,Urban High,Diploma,Yes,Yes,2.7,80.7,7.7,1.8,59.0,66.0
+STU0691,Female,16,Suburban High,High School,Yes,Yes,2.0,92.1,6.2,3.9,42.0,63.0
+STU1172,Male,16,Urban High,Diploma,Yes,Yes,4.1,81.1,6.3,0.8,71.0,83.0
+STU1125,Female,16,Rural High,High School,Yes,Yes,2.5,85.1,7.8,0.6,67.0,63.0
+STU0437,Female,16,Rural High,High School,Yes,Yes,2.7,90.5,7.2,4.2,57.0,60.0
+STU0491,Male,17,Urban High,High School,Yes,Yes,3.0,88.7,7.5,1.9,53.0,66.0
+STU0818,Male,15,Urban High,High School,No,Yes,2.5,92.5,6.5,4.3,58.0,72.0
+STU1106,Male,16,Rural High,High School,No,Yes,3.5,70.1,7.1,0.8,79.0,82.0
+STU0070,Female,16,Urban High,Diploma,Yes,Yes,3.8,84.7,5.0,4.5,78.0,83.0
+STU0809,female,15,Urban High,Bachelor's,Yes,Yes,5.3,100.0,7.1,3.5,88.0,97.0
+STU0012,Male,18,Suburban High,High School,Yes,No,2.2,86.7,7.8,3.6,57.0,63.0
+STU0145,Female,18,Rural High,High School,Yes,No,3.0,80.8,5.7,5.1,71.0,68.0
+STU0918,Female,15,Urban High,High School,No,No,2.4,92.2,7.9,6.8,40.0,53.0
+STU0640,Male,17,Rural High,Bachelor's,Yes,Yes,2.1,81.9,4.6,4.0,66.0,75.0
+STU0177,Female,17,Rural High,Bachelor's,Yes,No,3.8,91.2,5.1,5.3,42.0,54.0
+STU0995,Male,17,Suburban High,High School,Yes,No,4.2,98.3,6.6,3.7,53.0,67.0
+STU0441,Male,17,Suburban High,Diploma,Yes,Yes,1.8,92.8,7.6,4.2,60.0,67.0
+STU0522,Female,16,Urban High,Bachelor's,Yes,Yes,1.1,81.8,7.3,2.8,35.0,51.0
+STU1005,Male,16,Suburban High,Bachelor's,Yes,No,3.9,81.5,7.1,2.8,58.0,75.0
+STU0144,Male,17,Urban High,Diploma,No,No,3.3,83.4,4.7,4.0,71.0,69.0
+STU0754,Female,18,Urban High,High School,Yes,No,,88.5,6.8,1.7,84.0,81.0
+STU0520,Male,18,Suburban High,Diploma,Yes,Yes,2.3,75.8,5.5,4.3,73.0,61.0
+STU0823,Female,15,Suburban High,Bachelor's,Yes,Yes,4.0,86.5,4.4,4.8,57.0,73.0
+STU0429,Female,15,Suburban High,Diploma,Yes,Yes,1.5,,6.7,2.7,50.0,56.0
+STU0613,Male,17,Suburban High,Diploma,Yes,Yes,2.7,74.8,5.2,2.9,53.0,70.0
+STU1033,Female,15,Suburban High,High School,Yes,Yes,2.9,77.9,6.4,3.9,79.0,76.0
+STU0157,Female,17,Urban High,High School,No,Yes,2.6,100.0,8.5,3.1,37.0,53.0
+STU0540,Male,17,Urban High,,Yes,No,1.8,96.7,7.7,2.0,28.0,52.0
+STU0462,Female,17,Rural High,Bachelor's,Yes,No,2.3,100.0,7.5,4.0,32.0,60.0
+STU0577,Male,17,Rural High,Bachelor's,Yes,Yes,3.9,82.2,6.8,3.4,63.0,83.0
+STU0256,Male,15,Suburban High,High School,Yes,No,1.9,77.7,5.5,4.4,50.0,56.0
+STU0980,Female,18,Suburban High,High School,Yes,No,4.3,85.5,6.7,1.1,53.0,79.0
+STU1007,Male,17,Rural High,Bachelor's,Yes,No,3.0,81.6,8.3,0.0,70.0,78.0
+STU0561,Female,16,Suburban High,Diploma,Yes,Yes,,66.3,7.0,3.3,55.0,54.0
+STU0209,Female,18,Rural High,Master's,Yes,Yes,4.1,86.7,8.9,1.2,73.0,89.0
+STU0911,male,17,Suburban High,Diploma,Yes,No,1.9,93.1,7.9,4.7,38.0,55.0
+STU0002,Female,17,Suburban High,High School,Yes,Yes,2.9,95.2,5.7,0.8,58.0,68.0
+STU0270,Female,15,Rural High,Diploma,Yes,Yes,2.6,88.7,7.7,3.7,54.0,63.0
+STU0266,Female,17,Suburban High,,Yes,No,2.1,82.6,6.7,2.4,44.0,55.0
+STU0915,Male,15,Urban High,High School,Yes,No,3.2,87.2,7.5,1.4,52.0,71.0
+STU0231,Female,18,Urban High,Diploma,Yes,No,2.7,92.0,7.8,3.0,85.0,84.0
+STU1193,Male,16,Suburban High,High School,No,No,3.0,80.0,7.7,3.3,56.0,62.0
+STU1189,Female,17,Suburban High,High School,No,Yes,2.3,91.3,,2.8,66.0,62.0
+STU0865,female,16,Urban High,,Yes,Yes,1.1,83.3,7.5,4.4,59.0,42.0
+STU1067,Female,17,Rural High,Bachelor's,No,No,2.0,85.0,6.5,4.6,89.0,88.0
+STU0874,Female,18,Suburban High,High School,Yes,Yes,1.2,85.9,6.6,3.6,51.0,55.0
+STU1078,Female,16,Suburban High,High School,Yes,No,4.3,87.1,7.6,2.1,58.0,66.0
+STU0399,Female,18,Rural High,High School,Yes,No,2.6,95.5,5.5,3.5,77.0,67.0
+STU1199,Female,15,Suburban High,Bachelor's,No,No,1.8,85.4,6.9,3.3,70.0,73.0
+STU0046,Male,16,Rural High,Bachelor's,Yes,Yes,2.7,82.3,6.2,6.8,65.0,62.0
+STU0162,Male,16,Rural High,High School,Yes,No,3.0,83.3,7.6,5.2,56.0,62.0
+STU0992,Male,17,Rural High,Diploma,Yes,Yes,1.8,73.7,6.9,4.4,68.0,66.0
+STU0728,Female,17,Urban High,Bachelor's,Yes,Yes,2.0,98.4,6.2,3.1,52.0,65.0
+STU0630,male,16,Urban High,High School,Yes,No,2.8,78.5,5.7,4.4,59.0,58.0
+STU0289,Male,18,Urban High,,No,Yes,4.5,85.0,7.9,3.8,46.0,70.0
+STU1060,Male,16,Suburban High,High School,Y,Yes,4.3,92.2,6.9,0.9,48.0,72.0
+STU1179,Female,15,Suburban High,High School,Yes,No,0.8,95.1,5.8,1.9,64.0,57.0
+STU0576,Female,17,Suburban High,Diploma,Yes,No,2.3,91.7,8.2,2.8,56.0,71.0
+STU0851,female,18,Suburban High,Bachelor's,No,No,1.8,96.5,8.2,3.3,68.0,74.0
+STU0912,Male,17,Suburban High,Diploma,Yes,No,4.1,79.8,7.2,1.6,77.0,81.0
+STU0684,Female,17,Suburban High,High School,Yes,No,4.9,96.0,7.2,2.4,55.0,70.0
+STU0933,Female,18,Urban High,Bachelor's,Yes,No,0.8,89.6,6.8,1.5,53.0,58.0
+STU0248,Female,17,Suburban High,Bachelor's,No,No,3.2,91.2,5.8,2.4,52.0,67.0
+STU0477,Female,17,Urban High,Bachelor's,Yes,No,0.7,77.1,6.4,6.6,67.0,60.0
+STU0086,Female,18,Urban High,High School,No,No,3.2,83.9,7.0,4.3,59.0,55.0
+STU0470,Female,18,Urban High,High School,Yes,No,1.3,86.7,6.3,3.6,79.0,71.0
+STU0226,Male,16,Urban High,Diploma,Yes,Yes,3.9,,5.5,3.6,76.0,77.0
+STU0775,Female,15,Rural High,Diploma,Yes,Yes,1.7,72.2,6.4,2.8,51.0,69.0
+STU0332,Female,15,Urban High,Diploma,Yes,No,3.0,98.9,5.6,2.2,36.0,48.0
+STU0234,Male,15,Rural High,Diploma,Yes,Yes,4.8,120.0,6.5,3.3,75.0,89.0
+STU0589,Female,18,Urban High,High School,Yes,No,2.3,100.0,6.8,4.7,52.0,47.0
+STU0476,Female,18,Urban High,Diploma,Yes,Yes,2.2,97.6,8.7,6.9,63.0,72.0
+STU0600,Male,17,URBAN HIGH,High School,Yes,Yes,2.6,85.8,7.0,1.2,63.0,71.0
+STU0422,Female,17,Rural High,High School,Yes,Yes,2.7,89.0,6.2,2.5,59.0,77.0
+STU0183,Female,17,Urban High,Master's,Yes,No,1.8,94.0,7.8,1.4,51.0,70.0
+STU0989,Female,16,Urban High,Bachelor's,Yes,Yes,0.8,82.7,7.1,3.3,72.0,68.0
+STU1001,Female,15,Urban High,Bachelor's,Yes,No,2.2,80.6,8.1,5.8,43.0,54.0
+STU0050,Female,18,Rural High,Bachelor's,Yes,Yes,2.4,100.0,7.2,1.2,85.0,83.0
+STU1132,Female,150,Urban High,Master's,Yes,No,3.2,79.8,6.6,5.0,51.0,62.0
+STU1030,Female,17,Suburban High,High School,Yes,No,3.1,,7.3,2.6,64.0,65.0
+STU0530,Female,16,Rural High,Master's,Yes,Yes,3.0,100.0,7.9,2.5,44.0,72.0
+STU0487,Female,17,Urban High,Diploma,Yes,Yes,1.9,83.7,6.7,5.9,64.0,67.0
+STU0498,Male,17,Urban High,Bachelor's,Yes,Yes,0.0,76.0,9.1,2.4,57.0,58.0
+STU0107,Female,17,Suburban High,High School,No,No,1.9,94.9,5.5,1.6,48.0,56.0
+STU0444,Female,16,Urban High,Master's,Yes,No,2.3,86.1,4.8,2.6,58.0,61.0
+STU0647,Female,16,Rural High,Bachelor's,No,Yes,5.1,80.9,9.6,4.4,72.0,81.0
+STU1037,Female,15,Urban High,High School,No,Yes,4.2,82.2,8.5,3.0,61.0,78.0
+STU0727,Female,16,Rural High,High School,Yes,Yes,1.4,94.2,7.5,3.3,54.0,67.0
+STU0191,Male,18,Suburban High,High School,Yes,No,2.3,80.7,8.7,7.4,25.0,42.0
+STU0283,female,17,Urban High,Bachelor's,Yes,Yes,2.3,88.4,7.3,2.1,70.0,76.0
+STU0030,Male,15,Suburban High,High School,No,Yes,3.1,83.8,9.3,2.7,49.0,60.0
+STU0170,Male,16,Suburban High,Bachelor's,Yes,No,4.0,86.2,7.5,3.3,73.0,80.0
+STU1002,Female,18,Suburban High,Master's,Yes,No,1.7,86.1,5.8,5.6,66.0,69.0
+STU0101,Male,16,Urban High,Master's,Yes,No,3.2,93.4,7.7,1.6,66.0,76.0
+STU0198,Male,18,Urban High,Bachelor's,Yes,Yes,3.6,90.3,6.4,3.7,65.0,68.0
+STU0496,Male,17,Urban High,High School,Yes,Yes,3.3,99.2,6.4,2.4,49.0,69.0
+STU0648,female,17,Rural High,High School,Yes,Yes,3.1,96.6,7.8,4.6,55.0,74.0
+STU0988,Female,17,Suburban High,Master's,Yes,Yes,3.3,87.6,6.4,1.0,58.0,78.0
+STU0045,Male,16,Rural High,High School,Yes,Yes,0.2,75.6,5.5,3.1,58.0,51.0
+STU0711,Male,15,Urban High,Diploma,Yes,Yes,1.6,85.4,5.7,3.7,63.0,70.0
+STU0374,Female,18,Urban High,High School,Yes,No,3.5,88.2,7.6,6.3,70.0,60.0
+STU0679,Female,17,Rural High,High School,Yes,Yes,2.5,72.8,5.9,5.9,63.0,54.0
+STU0567,Male,18,Urban High,High School,Yes,No,5.2,85.2,8.5,3.7,52.0,67.0
+STU0848,male,17,Suburban High,Diploma,Yes,Yes,4.1,94.6,6.5,2.4,51.0,68.0
+STU0461,Male,15,Urban High,Master's,Yes,Yes,0.0,87.8,6.8,1.8,86.0,71.0
+STU0040,male,15,Suburban High,Diploma,Y,Yes,3.6,87.6,7.1,5.0,64.0,71.0
+STU0435,Female,18,Rural High,High School,Yes,No,2.1,72.5,7.5,5.0,67.0,65.0
+STU0974,Male,15,Urban High,Diploma,Yes,No,5.2,76.9,7.5,0.8,56.0,76.0
+STU1008,Female,16,Urban High,High School,No,Yes,3.1,91.5,8.1,2.2,36.0,62.0
+STU0457,Male,16,Rural High,High School,Yes,Yes,2.1,86.8,8.7,5.5,88.0,76.0
+STU0261,Female,17,Suburban High,Diploma,Yes,No,2.9,97.1,8.3,1.8,44.0,65.0
+STU0036,Female,15,Suburban High,High School,No,No,4.3,89.5,6.6,4.0,64.0,71.0
+STU0828,Female,16,Urban High,High School,Yes,No,3.6,77.6,6.2,7.0,61.0,57.0
+STU0310,Female,17,Rural High,Bachelor's,No,No,,87.3,5.7,2.2,65.0,72.0
+STU0277,Female,16,Rural High,High School,Yes,Yes,2.9,91.4,8.9,2.0,51.0,64.0
+STU0637,Male,15,Rural High,Diploma,No,Yes,2.8,75.5,7.4,5.6,49.0,53.0
+STU0655,Male,18,Rural High,Bachelor's,No,Yes,1.7,74.2,8.7,5.1,60.0,60.0
+STU0623,Male,17,Rural High,High School,Yes,Yes,4.3,93.8,5.2,0.0,44.0,62.0
+STU0845,Female,18,Urban High,High School,Yes,No,1.9,100.0,7.5,0.0,48.0,52.0
+STU0394,Male,16,Suburban High,High School,Yes,Yes,2.5,86.9,7.7,3.5,56.0,59.0
+STU0108,Female,17,Suburban High,Bachelor's,Yes,Yes,2.8,78.5,7.3,0.0,72.0,78.0
+STU0350,Female,16,Urban High,High School,Yes,No,1.1,72.3,6.5,5.6,62.0,59.0
+STU0525,Female,16,Urban High,Master's,Yes,Yes,2.5,90.9,6.6,3.7,69.0,73.0
+STU0785,Male,17,Urban High,Bachelor's,Yes,No,,82.9,8.8,1.4,43.0,61.0
+STU0048,Female,16,Urban High,Diploma,Yes,Yes,3.1,91.8,7.7,2.2,68.0,75.0
+STU0204,Female,16,Suburban High,High School,Yes,Yes,1.3,88.4,4.0,5.6,57.0,45.0
+STU0022,Female,16,Urban High,High School,Yes,No,2.3,89.2,8.4,4.1,75.0,69.0
+STU0403,Male,17,Urban High,Bachelor's,Yes,Yes,1.1,94.1,10.0,3.0,33.0,60.0
+STU1108,Female,16,Suburban High,Diploma,Yes,No,1.8,83.6,8.2,2.6,44.0,52.0
+STU1155,Male,16,Urban High,Master's,Yes,No,,86.6,7.6,3.2,57.0,67.0
+STU0990,Male,18,Urban High,Master's,Yes,Yes,3.0,94.9,7.8,6.7,54.0,63.0
+STU0742,Female,16,Urban High,,Yes,Yes,4.5,100.0,7.9,0.4,45.0,75.0
+STU1148,Male,18,Suburban High,Bachelor's,Yes,No,2.0,93.9,,3.2,61.0,75.0
+STU0034,Female,17,Urban High,Diploma,Yes,Yes,5.9,92.6,6.5,3.8,76.0,91.0
+STU0788,Female,17,Suburban High,High School,Yes,No,3.4,100.0,5.6,0.3,63.0,70.0
+STU0924,Male,15,Suburban High,Bachelor's,No,Yes,3.2,84.7,5.9,4.3,60.0,67.0
+STU1044,Male,16,Urban High,High School,Yes,Yes,3.3,71.8,7.8,3.5,89.0,84.0
+STU1168,Male,16,Rural High,Diploma,Yes,Yes,3.5,82.5,5.1,2.2,67.0,71.0
+STU0580,Female,16,Suburban High,Master's,No,No,3.5,86.5,5.4,1.5,39.0,63.0
+STU0482,Female,18,Urban High,High School,Yes,Yes,3.1,83.2,6.9,4.4,64.0,68.0
+STU0932,Female,17,Urban High,,No,No,2.0,91.8,6.3,2.4,49.0,60.0
+STU0357,Male,18,Suburban High,,Yes,Yes,2.5,100.0,5.0,3.6,75.0,91.0
+STU0760,Female,17,Urban High,Bachelor's,Yes,Yes,2.6,70.8,8.2,5.4,79.0,75.0
+STU0093,Female,17,Urban High,High School,Yes,No,2.7,91.6,4.0,3.8,63.0,69.0
+STU0804,Male,17,RURAL HIGH,High School,No,Yes,3.3,89.2,7.0,1.8,70.0,72.0
+STU0746,Female,18,Rural High,Master's,Yes,Yes,3.1,87.9,7.0,2.5,66.0,82.0
+STU0280,Male,16,Urban High,Diploma,Yes,Yes,2.1,82.0,7.7,2.1,44.0,68.0
+STU0765,Male,17,Rural High,Bachelor's,No,Yes,3.2,67.1,5.7,1.9,92.0,86.0
+STU0605,Male,17,Urban High,Bachelor's,Yes,No,0.8,93.6,5.2,3.5,67.0,61.0
+STU1200,Male,17,Urban High,Bachelor's,Yes,No,1.7,86.2,8.2,1.1,51.0,49.0
+STU0401,Female,18,Suburban High,Bachelor's,Yes,Yes,3.0,94.5,7.1,6.9,53.0,70.0
+STU0258,Female,16,Rural High,Diploma,Yes,Yes,1.7,83.2,6.8,2.8,57.0,59.0
+STU0945,Female,16,Rural High,Diploma,Yes,Yes,3.6,82.0,6.9,3.5,92.0,85.0
+STU1097,Female,17,Suburban High,Diploma,Yes,Yes,3.7,68.8,8.2,3.8,50.0,66.0
+STU1162,Male,15,Rural High,Diploma,Yes,Yes,2.6,92.2,8.4,2.6,63.0,69.0
+STU0495,Male,17,Suburban High,High School,Yes,No,2.6,99.4,7.3,0.9,59.0,58.0
+STU0773,Male,17,Suburban High,Diploma,Yes,Yes,1.4,95.2,7.6,3.9,32.0,57.0
+STU0551,Female,17,Urban High,High School,No,No,3.0,76.0,4.6,4.9,53.0,49.0
+STU0202,Male,15,Rural High,High School,Yes,Yes,1.9,84.6,6.9,4.6,68.0,73.0
+STU0313,Female,17,Urban High,Bachelor's,Yes,No,4.4,,5.4,0.0,51.0,59.0
+STU0291,Male,15,Suburban High,High School,Yes,No,3.0,83.1,6.8,4.4,55.0,61.0
+STU0764,Female,15,Suburban High,Master's,Yes,No,,82.8,8.0,5.6,53.0,59.0
+STU1137,Female,18,Urban High,Bachelor's,Yes,Yes,2.6,84.0,5.3,5.5,72.0,71.0
+STU0950,Female,15,Urban High,High School,No,No,2.2,89.6,5.5,1.8,90.0,81.0
+STU0184,Female,18,Urban High,High School,Yes,No,4.3,88.9,8.2,2.7,42.0,70.0
+STU1177,Female,18,Suburban High,Diploma,Yes,Yes,2.9,87.9,7.7,4.2,70.0,77.0
+STU1069,Female,17,Urban High,Bachelor's,Yes,Yes,7.6,89.6,7.0,3.6,58.0,78.0
+STU1031,Male,16,Rural High,High School,Yes,Yes,3.5,90.4,6.7,2.2,69.0,76.0
+STU0251,Male,18,Suburban High,Diploma,Yes,No,3.4,100.0,10.0,4.8,68.0,90.0
+STU0824,Male,16,Rural High,High School,Yes,Yes,3.5,91.8,7.0,4.6,67.0,77.0
+STU1100,Female,17,Suburban High,Bachelor's,Yes,Yes,2.2,76.7,7.4,2.4,48.0,62.0
+STU0941,Female,18,Urban High,High School,Yes,No,1.5,,7.2,1.6,62.0,66.0
+STU0392,Female,15,Urban High,Diploma,Yes,No,0.7,88.8,7.6,6.7,51.0,51.0
+STU1093,Female,17,Suburban High,Bachelor's,Yes,No,2.2,89.5,4.8,2.6,29.0,49.0
+STU1192,Female,17,Urban High,High School,Yes,Yes,1.3,100.0,7.6,4.1,45.0,47.0
+STU0905,Male,17,Suburban High,High School,Yes,Yes,1.9,87.7,6.6,4.3,61.0,60.0
+STU0731,female,17,Urban High,High School,Yes,No,2.8,94.9,7.8,5.4,90.0,88.0
+STU0555,Female,16,Rural High,Diploma,No,Yes,2.5,75.8,6.3,4.6,72.0,71.0
+STU0367,Male,15,Urban High,Diploma,Yes,Yes,2.7,70.1,7.6,1.7,44.0,54.0
+STU0346,Male,16,Suburban High,Master's,No,No,4.1,80.3,7.5,2.0,51.0,77.0
+STU0536,Female,17,Rural High,High School,Yes,Yes,2.2,82.2,6.1,7.5,69.0,54.0
+STU0665,Female,17,Urban High,Bachelor's,Yes,Yes,3.4,83.6,6.9,4.3,44.0,68.0
+STU0920,Male,16,Urban High,High School,Yes,No,3.7,73.7,8.8,5.6,82.0,72.0
+STU0212,Male,18,Suburban High,High School,Yes,No,3.3,90.5,7.6,0.0,33.0,59.0
+STU0503,Male,16,Urban High,Diploma,Yes,No,4.6,93.6,7.8,3.8,50.0,58.0
+STU0538,Female,16,Urban High,Bachelor's,Yes,No,3.3,99.3,7.0,3.1,65.0,72.0
+STU0176,Female,15,Rural High,Diploma,Yes,No,1.6,75.9,6.5,1.8,49.0,57.0
