@@ -1,5 +1,6 @@
 # 🎀 Student Performance Analysis
 
+
 An exploratory data analysis and modelling project on a **synthetic** student dataset, built to practise the full analyst workflow: inspect, clean, explore, test, model, conclude.
 
 ## ❓ Questions
